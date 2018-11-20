@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+  <channel>
+      <title>Ausbaufähig</title>
+      <link>https://www.ausbaufaehig-podcast.de</link>
+      <image>
+          <url>https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg</url>
+          <title>Ausbaufähig</title>
+          <link>https://www.ausbaufaehig-podcast.de</link>
+      </image>
+      <description>
+          Der Wein-Podcast von Ben und Vanessa. Wir haben beruflich nichts mit Wein zu tun, wir trinken einfach nur gerne und reden dann darüber! Alle Weine wurden privat gekauft und sind für uns meistens auch neu.
+      </description>
+      <language>de-de</language>
+      <copyright>Vanessa Böhner copyright 2018</copyright>
+      <atom:link href="https://ausbaufaehig-podcast.de/fe
+      ed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 20 Nov 2018 06:00:00 PDT</lastBuildDate>
+      <itunes:author>Vanessa Böhner</itunes:author>
+      <itunes:summary>
+          Ben und Vanessa trinken Weine aus aller Welt
+      </itunes:summary>
+      <itunes:subtitle>Ben und Vanessa trinken Weine aus aller Welt</itunes:subtitle>
+      <itunes:owner>
+          <itunes:name>Vanessa Böhner</itunes:name>
+          <itunes:email>boehner.vanessa@gmail.com</itunes:email>
+      </itunes:owner>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>
+          wein, vino, winetasting, weinverkostung, rotwein, weisswein, sekt, schaumwein, rosewein
+      </itunes:keywords>
+      <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+      <rawvoice:rating>TV-G</rawvoice:rating>
+      <rawvoice:location>Munich, Germany</rawvoice:location>
+      <rawvoice:frequency>Biweekly</rawvoice:frequency>
+      <itunes:category text="Food"/>
+      <pubDate>Tue, 20 Nov 2018 09:00:00 PDT</pubDate>
+      <item>
+        <title>1: Es rieselt von der Mosel</title>
+        <link>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
+        </link>
+        <pubDate>Tue, 20 Nov 2018 09:00:00 PDT</pubDate>
+        <description>
+            <![CDATA[Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [&#8230;]]]>
+        </description>
+        <content:encoded><![CDATA[<p>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"</p>
+<h3>Schaunotizen</h3>
+<dl>
+<dt>[00:00:54] Was trinken wir heute?</dt>
+<dd>Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.</dd>
+</dl>
+<dl>
+<dt>[00:05:40] Erster Wein!</dt>
+<dd>"2016 Riesling Erdener Tröpfchen trocken" wird getrunken.</dd>
+</dl>
+<dl>
+<dt>[00:08:58] Und was kostets?</dt>
+<dd>Preise der heutigen Weine</dd>
+</dl>
+<dl>
+<dt>[00:09:22] Wie sind wir dazu gekommen?</dt>
+<dd>Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.</dd>
+</dl>
+<dl>
+<dt>[00:19:21] Die Rebsorte Riesling</dt>
+<dd>Welche Charakteristiken sind eigentlich typisch für einen Riesling?</dd>
+</dl>
+<dl>
+<dt>[00:25:30] Zweiter Wein!</dt>
+<dd>"2016 Riesling Wehlener Klosterberg trocken" wird getrunken.</dd>
+</dl>
+<dl>
+<dt>[00:30:20] Kabinett</dt>
+<dd>Was sind eigentlich Kabinettweine und wofür stehen Oechsle?</dd>
+</dl>
+<dl>
+<dt>[[00:37:44] Parker</dt>
+<dd>Ben erzählt uns was die Parker-Skala ist</dd>
+</dl>
+<dl>
+<dt>[00:52:27] Anreicherung</dt>
+<dd>Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".</dd>
+</dl>
+]]></content:encoded>
+        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3" length="43672008" type="audio/mpeg"/>
+        <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
+        </guid>
+        <itunes:duration>01:00:33</itunes:duration>
+        <itunes:subtitle>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [...]
+        </itunes:subtitle>
+        <itunes:summary>
+            Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken" 
+            Schaunotizen
+
+            [00:00:34] Was trinken wir heute?
+            Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.
+
+            [00:05:40] Erster Wein!
+            "2016 Riesling Erdener Tröpfchen trocken" wird getrunken.
+
+            [00:08:58] Und was kostets?
+            Preise der heutigen Weine
+
+            [00:09:22] Wie sind wir dazu gekommen?
+            Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.
+
+            [00:19:21] Die Rebsorte Riesling
+            Welche Charakteristiken sind eigentlich typisch für einen Riesling?
+
+            [00:25:30] Zweiter Wein!
+            "2016 Riesling Wehlener Klosterberg trocken" wird getrunken.
+
+            [00:30:20] Kabinett
+            Was sind eigentlich Kabinettweine und wofür stehen Oechsle?
+
+            [00:37:44] Parker
+            Ben erzählt uns was die Parker-Skala ist.
+
+            [00:52:27] Anreicherung
+            Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".
+        </itunes:summary>
+        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+        <itunes:keywords>
+            wein, riesling, mosel, kabinett, oechsle, trocken, weisswein, weinverkostung, weintasting, winetasting
+        </itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+      <item>
+        <title>0: Ausbaufähig sagt hallo</title>
+        <link>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3
+        </link>
+        <pubDate>Tue, 20 Nov 2018 09:00:00 PDT</pubDate>
+        <description>
+            <![CDATA[Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.]]>
+        </description>
+        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3" length="2087113" type="audio/mpeg"/>
+        <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3
+        </guid>
+        <itunes:duration>02:54</itunes:duration>
+        <itunes:subtitle>
+            Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.
+        </itunes:subtitle>
+        <itunes:summary>
+            Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.
+        </itunes:summary>
+        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+        <itunes:keywords>
+            wein, weisswein, rotwein, trinken, vino, weinverkostung, weintasting, winetasting
+        </itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+  </channel>
+</rss>
