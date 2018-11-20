@@ -17,9 +17,8 @@
       </description>
       <language>de-de</language>
       <copyright>Vanessa Böhner copyright 2018</copyright>
-      <atom:link href="https://ausbaufaehig-podcast.de/fe
-      ed.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 20 Nov 2018 06:00:00 PDT</lastBuildDate>
+      <atom:link href="https://ausbaufaehig-podcast.de/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 20 Nov 2018 09:00:00 PDT</lastBuildDate>
       <itunes:author>Vanessa Böhner</itunes:author>
       <itunes:summary>
           Ben und Vanessa trinken Weine aus aller Welt
@@ -48,45 +47,47 @@
         <description>
             <![CDATA[Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [&#8230;]]]>
         </description>
-        <content:encoded><![CDATA[<p>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"</p>
-<h3>Schaunotizen</h3>
-<dl>
-<dt>[00:00:54] Was trinken wir heute?</dt>
-<dd>Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.</dd>
-</dl>
-<dl>
-<dt>[00:05:40] Erster Wein!</dt>
-<dd>"2016 Riesling Erdener Tröpfchen trocken" wird getrunken.</dd>
-</dl>
-<dl>
-<dt>[00:08:58] Und was kostets?</dt>
-<dd>Preise der heutigen Weine</dd>
-</dl>
-<dl>
-<dt>[00:09:22] Wie sind wir dazu gekommen?</dt>
-<dd>Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.</dd>
-</dl>
-<dl>
-<dt>[00:19:21] Die Rebsorte Riesling</dt>
-<dd>Welche Charakteristiken sind eigentlich typisch für einen Riesling?</dd>
-</dl>
-<dl>
-<dt>[00:25:30] Zweiter Wein!</dt>
-<dd>"2016 Riesling Wehlener Klosterberg trocken" wird getrunken.</dd>
-</dl>
-<dl>
-<dt>[00:30:20] Kabinett</dt>
-<dd>Was sind eigentlich Kabinettweine und wofür stehen Oechsle?</dd>
-</dl>
-<dl>
-<dt>[[00:37:44] Parker</dt>
-<dd>Ben erzählt uns was die Parker-Skala ist</dd>
-</dl>
-<dl>
-<dt>[00:52:27] Anreicherung</dt>
-<dd>Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".</dd>
-</dl>
-]]></content:encoded>
+        <content:encoded>
+            <![CDATA[<p>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"</p>
+            <h3>Schaunotizen</h3>
+            <dl>
+            <dt>[00:00:54] Was trinken wir heute?</dt>
+            <dd>Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.</dd>
+            </dl>
+            <dl>
+            <dt>[00:05:40] Erster Wein!</dt>
+            <dd>"2016 Riesling Erdener Tröpfchen trocken" wird getrunken.</dd>
+            </dl>
+            <dl>
+            <dt>[00:08:58] Und was kostets?</dt>
+            <dd>Preise der heutigen Weine</dd>
+            </dl>
+            <dl>
+            <dt>[00:09:22] Wie sind wir dazu gekommen?</dt>
+            <dd>Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.</dd>
+            </dl>
+            <dl>
+            <dt>[00:19:21] Die Rebsorte Riesling</dt>
+            <dd>Welche Charakteristiken sind eigentlich typisch für einen Riesling?</dd>
+            </dl>
+            <dl>
+            <dt>[00:25:30] Zweiter Wein!</dt>
+            <dd>"2016 Riesling Wehlener Klosterberg trocken" wird getrunken.</dd>
+            </dl>
+            <dl>
+            <dt>[00:30:20] Kabinett</dt>
+            <dd>Was sind eigentlich Kabinettweine und wofür stehen Oechsle?</dd>
+            </dl>
+            <dl>
+            <dt>[[00:37:44] Parker</dt>
+            <dd>Ben erzählt uns was die Parker-Skala ist</dd>
+            </dl>
+            <dl>
+            <dt>[00:52:27] Anreicherung</dt>
+            <dd>Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".</dd>
+            </dl>
+            ]]>
+        </content:encoded>
         <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3" length="43672008" type="audio/mpeg"/>
         <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
