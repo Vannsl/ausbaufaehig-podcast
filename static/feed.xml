@@ -16,7 +16,7 @@
           Der Wein-Podcast von Ben und Vanessa. Wir haben beruflich nichts mit Wein zu tun, wir trinken einfach nur gerne und reden dann darüber! Alle Weine wurden privat gekauft und sind für uns meistens auch neu.
       </description>
       <language>de-de</language>
-      <copyright>Vanessa Böhner copyright 2018</copyright>
+      <copyright>© Vanessa Böhner 2018</copyright>
       <atom:link href="https://ausbaufaehig-podcast.de/feed.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Tue, 20 Nov 2018 09:00:00 PDT</lastBuildDate>
       <itunes:author>Vanessa Böhner</itunes:author>
@@ -36,10 +36,11 @@
       <rawvoice:rating>TV-G</rawvoice:rating>
       <rawvoice:location>Munich, Germany</rawvoice:location>
       <rawvoice:frequency>Biweekly</rawvoice:frequency>
+      <itunes:category text="Arts"/>
       <itunes:category text="Food"/>
       <pubDate>Tue, 20 Nov 2018 09:00:00 PDT</pubDate>
       <item>
-        <title>1: Es rieselt von der Mosel</title>
+        <title>Es rieselt von der Mosel</title>
         <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
         </link>
@@ -133,7 +134,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
       <item>
-        <title>0: Ausbaufähig sagt hallo</title>
+        <title>Ausbaufähig sagt Hallo</title>
         <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3
         </link>

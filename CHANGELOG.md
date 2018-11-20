@@ -1,4 +1,4 @@
-Version 1.0.0
+Version 1.0.1
 
 # Changelog
 
@@ -13,3 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Setup whole website
 - Static feed.xml
+
+## [1.0.1] - 2018-11-20
+
+### Updates
+
+- Feed.xml with iTunes Categories
