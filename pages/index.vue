@@ -4,28 +4,102 @@
     <div class="content flex-1">
       <hero />
       <section class="container mx-auto my-16 p-4">
-        <div class="flex flex-wrap flex-row-reverse p-2 sm:p-8 bg-black shadow-md">
-          <div class="flex-1 max-w-full min-w-220 sm:min-w-300 px-4">
+        <div class="box flex flex-wrap flex-row-reverse sm:p-8">
+          <div class="box__half sm:min-w-300">
             <div class="circular-image w-220 sm:w-300 h-220 sm:h-300 max-w-full" />
           </div>
-          <div class="flex-1 max-w-full min-w-220 sm:min-w-300 px-4 text-xl leading-tight">
+          <div class="box__half sm:min-w-300 text-xl leading-tight">
             <div class="mb-8">
               Hallo,<br><br>
-              wir sind Ben und Vanessa und bald findest du hier die Episoden unseres Podcasts <strong>Ausbaufähig</strong>. Jede Woche (ist zumindest der Plan) werden wir einen Wein zu einem bestimmten Thema (z.B. wie aktuell die Forum Vini 2018, oder ein spezifisches Land, Region etc.) trinken und über ihn reden. Wir sind keine ausgebildeten Sommeliers, sondern genießen einfach sehr gerne guten Wein und fanden es schade, dass es so wenig deutsche Podcasts über Wein gibt. Denn schließlich ist es nicht immer leicht, einen spannenden neuen Wein zu finden. Üblicherweise kosten unsere Weine zwischen 6,50 und 30 €, der Hauptanteil wird bei 15 € liegen. Also! Bald geht es los, wir freuen uns auf drauf!
+              wir sind Ben und Vanessa und weiter unten findest du die Episoden von <strong>Ausbaufähig</strong>, einem Podcast über Wein. Wir werden etwa alle 2 Wochen ein oder zwei Flaschen Wein öffnen und eine Stunde lang trinken und quatschen. Die Flaschenpreise der Weine wird bei 8€ - 30€, durchschnittlich wohl 15€ liegen.
               <br><br>
-              Du wartest ganz gespannt auf die erste Episode? Folge uns einfach auf unserem
+              Für News folge gerne unserem
               <a
                 href="https://twitter.com/ausbaufahig"
                 class="hover:text-primary"
                 target="_blank"
               >
-              Twitter-Account</a>, da werden wir tweeten, sobald neue Episoden zur Verfügung stehen!
+              Twitter-Account</a> oder schaue dir Bilder auf
+              <a
+                href="https://www.instagram.com/ausbaufaehig_podcast/"
+                class="hover:text-primary"
+                target="_blank"
+              >
+              Instagram</a> an.
               <br><br>
-              Hast du Fragen? Dann schreibe uns gerne an
+              Hast du Fragen oder Wünsche (wie einen bestimmten Wein)? Dann schreibe uns an
               <a
                 href="mailto:ausbaufaehig@vannsl.io"
                 class="hover:text-primary"
               >ausbaufaehig@vannsl.io</a>.
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="container mx-auto my-16 p-4">
+        <div class="box sm:p-8">
+          <div class="flex flex-col items-center px-4">
+            <div class="my-2">
+              <RSS />
+            </div>
+            <div>
+              <h1 class="mb-4">
+                Ausbaufähig
+              </h1>
+              <p class="text-xl leading-tight">
+                Der Wein-Podcast von Ben und Vanessa. Wir haben beruflich nichts mit Wein zu tun, wir trinken einfach nur gerne und reden dann darüber! Alle Weine wurden privat gekauft und sind für uns meistens auch neu.
+              </p>
+            </div>
+            <div class="my-2">
+              <Episode
+                :number="1"
+                :title="title1"
+                :description="description1"
+              >
+                <dl>
+                <dt>[00:00:54] Was trinken wir heute?</dt>
+                <dd>Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.</dd>
+                </dl>
+                <dl>
+                <dt>[00:05:40] Erster Wein!</dt>
+                <dd>"2016 Riesling Erdener Tröpfchen trocken" wird getrunken.</dd>
+                </dl>
+                <dl>
+                <dt>[00:08:58] Und was kostets?</dt>
+                <dd>Preise der heutigen Weine</dd>
+                </dl>
+                <dl>
+                <dt>[00:09:22] Wie sind wir dazu gekommen?</dt>
+                <dd>Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.</dd>
+                </dl>
+                <dl>
+                <dt>[00:19:21] Die Rebsorte Riesling</dt>
+                <dd>Welche Charakteristiken sind eigentlich typisch für einen Riesling?</dd>
+                </dl>
+                <dl>
+                <dt>[00:25:30] Zweiter Wein!</dt>
+                <dd>"2016 Riesling Wehlener Klosterberg trocken" wird getrunken.</dd>
+                </dl>
+                <dl>
+                <dt>[00:30:20] Kabinett</dt>
+                <dd>Was sind eigentlich Kabinettweine und wofür stehen Oechsle?</dd>
+                </dl>
+                <dl>
+                <dt>[[00:37:44] Parker</dt>
+                <dd>Ben erzählt uns was die Parker-Skala ist</dd>
+                </dl>
+                <dl>
+                <dt>[00:52:27] Anreicherung</dt>
+                <dd>Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".</dd>
+                </dl>
+              </Episode>
+              <Episode
+                :number="0"
+                :title="title0"
+                :description="description0"
+              >
+                Keine
+              </Episode>
             </div>
           </div>
         </div>
@@ -39,6 +113,8 @@
 <script>
 import Bar from "~/components/Bar.vue";
 import Hero from "~/components/Hero.vue";
+import RSS from "~/components/icons/RSS.vue";
+import Episode from "~/components/Episode.vue";
 import Counter from "~/components/Counter.vue";
 import FooterBar from "~/components/Footer.vue";
 
@@ -47,7 +123,9 @@ export default {
     Bar,
     Hero,
     FooterBar,
-    Counter
+    Counter,
+    RSS,
+    Episode
   },
   head() {
     return {
@@ -60,6 +138,16 @@ export default {
         }
       ]
     };
+  },
+  data() {
+    return {
+      title0: "#0 Ausbaufähig sagt Hallo",
+      description0:
+        "Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.",
+      title1: "#1 Es rieselt von der Mosel",
+      description1:
+        'Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"'
+    };
   }
 };
 </script>
@@ -69,8 +157,8 @@ export default {
   margin: 48px auto;
   border-radius: 150px;
   max-width: 300px;
-  background: url("https://res.cloudinary.com/vannsl-io/image/upload/c_scale,e_auto_color,q_60,w_600/v1542802575/ben_und_vanessa.jpg");
-  background-position: 0% 15%;
+  background: url("https://res.cloudinary.com/vannsl-io/image/upload/c_scale,q_80,w_600/v1542826488/ben_und_vanessa.jpg");
+  background-position: 30%;
   background-size: cover;
   box-shadow: 0px 0px 50px -10px rgba(0, 0, 0, 0.75);
 }

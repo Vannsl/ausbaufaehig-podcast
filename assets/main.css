@@ -1,4 +1,13 @@
 @tailwind preflight;
+
+.box {
+  @apply .bg-black .shadow-md .p-2;
+}
+
+.box__half {
+  @apply .flex-1 .max-w-full .min-w-220 .px-4;
+}
+
 @tailwind components;
 @tailwind utilities;
 

@@ -4,14 +4,14 @@
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
           :count="1"
-          title="Episoden"
+          title="Episode"
         >
           <podcast />
         </icon-counter>
         <!-- Deutschland -->
         <icon-counter
           :count="1"
-          title="Länder"
+          title="Land"
         >
           <earth />
         </icon-counter>
@@ -49,6 +49,14 @@ export default {
     Podcast,
     Earth,
     IconCounter
+  },
+  data() {
+    return {
+      episodes: 0,
+      bottles: 2,
+      glasses: 6,
+      countries: 1
+    };
   }
 };
 </script>

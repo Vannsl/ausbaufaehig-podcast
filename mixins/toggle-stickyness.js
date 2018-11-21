@@ -2,7 +2,7 @@ export default {
   data() {
     return {
       sticky: false
-    }
+    };
   },
   props: {
     shouldCheckStickyness: {
@@ -12,19 +12,19 @@ export default {
   },
   computed: {
     height() {
-      return this.$refs.sticky.offsetTop
+      return this.$refs.sticky.offsetTop;
     }
   },
   methods: {
     toggleStickyness() {
-      this.sticky = window.pageYOffset > this.height
+      this.sticky = window.pageYOffset > this.height;
     }
   },
-  created() {
+  mounted() {
     if (this.shouldCheckStickyness) {
-      window.addEventListener('scroll', this.toggleStickyness)
+      window.addEventListener("scroll", this.toggleStickyness);
     } else {
-      this.sticky = true
+      this.sticky = true;
     }
   }
-}
+};
