@@ -60,7 +60,7 @@ export default {
       return this.show ? "up" : "down";
     },
     src() {
-      return `https:vannsl.io/ausbaufaehig/ausbaufaehig_episode_${
+      return `https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_${
         this.number
       }.mp3`;
     }
