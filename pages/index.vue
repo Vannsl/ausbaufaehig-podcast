@@ -69,8 +69,8 @@ export default {
   margin: 48px auto;
   border-radius: 150px;
   max-width: 300px;
-  background: url("https://res.cloudinary.com/vannsl-io/image/upload/v1542542997/ben_und_vanessa.jpg");
-  background-position: 30%;
+  background: url("https://res.cloudinary.com/vannsl-io/image/upload/c_scale,e_auto_color,q_60,w_600/v1542802575/ben_und_vanessa.jpg");
+  background-position: 0% 15%;
   background-size: cover;
   box-shadow: 0px 0px 50px -10px rgba(0, 0, 0, 0.75);
 }
