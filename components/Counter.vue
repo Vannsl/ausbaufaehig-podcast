@@ -3,13 +3,14 @@
     <div class="container-md flex justify-center flex-wrap py-32">
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
-          :count="0"
+          :count="1"
           title="Episoden"
         >
           <podcast />
         </icon-counter>
+        <!-- Deutschland -->
         <icon-counter
-          :count="0"
+          :count="1"
           title="Länder"
         >
           <earth />
@@ -17,13 +18,13 @@
       </div>
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
-          :count="0"
+          :count="2"
           title="Flaschen"
         >
           <bottle />
         </icon-counter>
         <icon-counter
-          :count="0"
+          :count="6"
           title="Gläser"
         >
           <glass />
@@ -34,14 +35,14 @@
 </template>
 
 <script>
-import Earth from '~/components/icons/Earth.vue'
-import Glass from '~/components/icons/Glass.vue'
-import Bottle from '~/components/icons/Bottle.vue'
-import Podcast from '~/components/icons/Podcast.vue'
-import IconCounter from '~/components/IconCounter.vue'
+import Earth from "~/components/icons/Earth.vue";
+import Glass from "~/components/icons/Glass.vue";
+import Bottle from "~/components/icons/Bottle.vue";
+import Podcast from "~/components/icons/Podcast.vue";
+import IconCounter from "~/components/IconCounter.vue";
 
 export default {
-  name: 'Counter',
+  name: "Counter",
   components: {
     Glass,
     Bottle,
@@ -49,7 +50,7 @@ export default {
     Earth,
     IconCounter
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>
