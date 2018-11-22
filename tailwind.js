@@ -802,7 +802,9 @@ module.exports = {
   */
 
   svgFill: {
-    current: "currentColor"
+    current: "currentColor",
+    "teal-dark": colors["teal-dark"],
+    white: colors["white"]
   },
 
   /*
@@ -880,7 +882,7 @@ module.exports = {
     position: ["responsive"],
     resize: ["responsive"],
     shadows: ["responsive", "hover", "focus"],
-    svgFill: [],
+    svgFill: ["group-hover"],
     svgStroke: [],
     tableLayout: ["responsive"],
     textAlign: ["responsive"],
