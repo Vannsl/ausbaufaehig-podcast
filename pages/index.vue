@@ -18,12 +18,14 @@
                 href="https://twitter.com/ausbaufahig"
                 class="hover:text-primary"
                 target="_blank"
+                rel="noopener"
               >
               Twitter-Account</a> oder schaue dir Bilder auf
               <a
                 href="https://www.instagram.com/ausbaufaehig_podcast/"
                 class="hover:text-primary"
                 target="_blank"
+                rel="noopener"
               >
               Instagram</a> an.
               <br><br>

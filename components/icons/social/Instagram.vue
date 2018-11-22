@@ -3,6 +3,7 @@
     class="instagram"
     href="https://www.instagram.com/ausbaufaehig_podcast"
     target="_blank"
+    rel="noopener"
   >
     <svg
       class="fill-current"

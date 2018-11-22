@@ -3,6 +3,7 @@
     class="twitter"
     href="https://twitter.com/ausbaufahig"
     target="_blank"
+    rel="noopener"
   >
     <svg
       class="fill-current"
