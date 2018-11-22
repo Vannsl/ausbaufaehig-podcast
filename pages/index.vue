@@ -39,7 +39,7 @@
       <section class="container mx-auto my-16 p-4">
         <div class="box sm:p-8">
           <div class="flex flex-col items-center px-4">
-            <div class="my-2">
+            <div class="mx-8 my-2">
               <RSS />
             </div>
             <div>
