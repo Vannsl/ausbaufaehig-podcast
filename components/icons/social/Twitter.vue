@@ -11,6 +11,8 @@
       height="40"
       viewBox="0 0 24 24"
     >
+      <title>Ausbaufähig Twitter Account</title>
+      <desc>Twitter Icon that links to the Ausbaufähig account</desc>
       <path
         d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12
           12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183
