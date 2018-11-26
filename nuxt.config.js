@@ -6,7 +6,50 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { name: "author", content: "Vannsl.io, Vanessa Böhner" }
+      { name: "author", content: "Vannsl.io, Vanessa Böhner" },
+      {
+        name: "description",
+        content:
+          "Der Wein-Podcast von Ben und Vanessa. Wir haben beruflich nichts mit Wein zu tun, wir trinken einfach nur gerne und reden dann darüber! Alle Weine wurden privat gekauft und sind für uns meistens auch neu."
+      },
+      {
+        name: "keywords",
+        content:
+          "podcast, wine, wein, weinverkostung, winetasting, rotwein, weisswein, ausbaufähig, ausbaufaehig"
+      },
+      {
+        name: "og:title",
+        content: "Ausbaufähig - der Wein-Podcast"
+      },
+      {
+        name: "og:image",
+        content:
+          "https://res.cloudinary.com/vannsl-io/image/upload/c_crop,h_800,w_1500/v1542718345/ausbaufaehig_cover_art.jpg"
+      },
+      {
+        name: "og:url",
+        content: "https://www.ausbaufaehig-podcast.de"
+      },
+      {
+        name: "og:type",
+        content: "website"
+      },
+      {
+        name: "og:audio",
+        content: "https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3"
+      },
+      {
+        name: "og:audio:type",
+        content: "audio/mpeg"
+      },
+      {
+        name: "og:audio",
+        content: "https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3"
+      },
+      {
+        name: "og:audio:type",
+        content: "audio/mpeg"
+      }
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
