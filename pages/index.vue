@@ -54,6 +54,44 @@
             </div>
             <div class="my-2">
               <Episode
+                :number="2"
+                :title="title2"
+                :description="description2"
+              >
+                <dl>
+                <dt>[00:00:12] Was trinken wir heute?</dt>
+                <dd>Ben erklärt,wie wir zu dem heutigen Wein gekommen sind.</dd>
+                </dl>
+                <dl>
+                <dt>[00:04:50] Lasst uns trinken!</dt>
+                <dd>Schon wird er verkostet, der: Blank Canvas Syrah 2015 vom Gebiet Gimblett Gravels in Hawkes Bay.</dd>
+                </dl>
+                <dl>
+                <dt>[00:11:04] Von welchen Trauben stammt der Shiraz ab</dt>
+                <dd>Die Französisch-Experten versuchen die Weinsorten auszusprechen, aus denen der Shiraz gekreut wurde: Dureza und Mondeuse Blanche</dd>
+                </dl>
+                <dl>
+                <dt>[00:13:03] Im Restaurant?</dt>
+                <dd>Was bestellen wir blind im Restaurant, wenn wir vor der Weinkarte sitzen?</dd>
+                </dl>
+                <dl>
+                <dt>[00:14:00] Korken oder Weinverschluss</dt>
+                <dd>Ausgiebige Diskussion über den Verschluss von Weinflaschen</dd>
+                </dl>
+                <dl>
+                <dt>[00:23:56] Verletzungen und Trinktabelle</dt>
+                <dd>Vanessa erzählt, wie der Wein geöffnet wurde, und wie sie dadurch glücklicherweise einen Flyer mit einer Trinktabelle fand.</dd>
+                </dl>
+                <dl>
+                <dt>[00:39:09] Unterschiede zu anderen Shiraz/Syrah</dt>
+                <dd>Unterscheidet sich dieser Shiraz von anderen?</dd>
+                </dl>
+                <dl>
+                <dt>[00:46:30] Glühwein und Sangria</dt>
+                <dd>Wie stehen wir denn zu dem Thema Glühwein und Sangria?</dd>
+                </dl>
+              </Episode>
+              <Episode
                 :number="1"
                 :title="title1"
                 :description="description1"
@@ -148,7 +186,10 @@ export default {
         "Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.",
       title1: "#1 Es rieselt von der Mosel",
       description1:
-        'Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"'
+        'Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"',
+      title2: "#2 Syrah in der Glühweinzeit",
+      description2:
+        'Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.'
     };
   }
 };
