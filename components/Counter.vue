@@ -3,14 +3,14 @@
     <div class="container-md flex justify-center flex-wrap py-32">
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
-          :count="2"
+          :count="3"
           title="Episoden"
         >
           <podcast />
         </icon-counter>
         <!-- Deutschland -->
         <icon-counter
-          :count="2"
+          :count="3"
           title="Länder"
         >
           <earth />
@@ -18,13 +18,13 @@
       </div>
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
-          :count="3"
+          :count="5"
           title="Flaschen"
         >
           <bottle />
         </icon-counter>
         <icon-counter
-          :count="12"
+          :count="16"
           title="Gläser"
         >
           <glass />
