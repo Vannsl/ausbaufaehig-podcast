@@ -54,6 +54,71 @@
             </div>
             <div class="my-2">
               <Episode
+                :number="3"
+                :title="title3"
+                :description="description3"
+              >
+                <dl>
+            <dt>[00:00:14]</dt>
+            <dd>Nachtrag Episode 2</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:03:00]</dt>
+            <dd>Vorstellung der heutigen Weine</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:05:52]</dt>
+            <dd>Verköstigung 1. Wein: Chenin Chardonnay</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:07:32]</dt>
+            <dd>Traube Chenin Blanc</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:14:10]</dt>
+            <dd>Vanessas Tollwood Erlebnis</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:19:30]</dt>
+            <dd>Detaillierte Vorstellung Zweiter Wein (Chardonnay Auslese)</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:21:36]</dt>
+            <dd>Farbvergleich beider Weißweine</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:26:00]</dt>
+            <dd>Herkunft unseres Britzingen Weins</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:33:30]</dt>
+            <dd>Wie warm braucht es der Chardonnay?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:43:02]</dt>
+            <dd>Und welcher Chardonnay ist besser?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:48:01]</dt>
+            <dd>Es prickelt! Champagner!</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:50:03]</dt>
+            <dd>Welche Trauben sind in Sekt?</dd>
+            </dl>
+              </Episode>
+              <Episode
                 :number="2"
                 :title="title2"
                 :description="description2"
@@ -189,7 +254,10 @@ export default {
         'Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"',
       title2: "#2 Syrah in der Glühweinzeit",
       description2:
-        'Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.'
+        'Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.',
+      title3: "#3 Chardonnay vs. Chardonnay",
+      description3:
+        'Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.'
     };
   }
 };
