@@ -54,6 +54,66 @@
             </div>
             <div class="my-2">
               <Episode
+                :number="4"
+                :title="title4"
+                :description="description4"
+              >
+              <dl>
+            <dt>[00:00:11]</dt>
+            <dd>Warum gibt es diesmal Champagner? Wie oft gönnen wir uns denn so einen Schampus?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:02:50]</dt>
+            <dd>Heute reden wir über Perl- und Schaumweine und deren Herstellungsverfahren</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:05:58]</dt>
+            <dd>Was ist der Unterschied zwischen Perl- und Schaumweinen?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:07:12]</dt>
+            <dd>Wo ist diese Champagne und warum wird dort so viel Schaumwein hergestellt?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:12:20]</dt>
+            <dd>Vanessa erklärt, wie Schaumwein hergestellt wird.</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:16:30]</dt>
+            <dd>Was sagt Amazon zu dem Champagner?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:23:07]</dt>
+            <dd>Rezeptur des Champagners</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:29:21]</dt>
+            <dd>Wie entstand prickelnder Schaumwein aus dem üblichen Stillwein?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:33:30]</dt>
+            <dd>Mit welchen Trauben prickelts außerhalb der Champagne? Rest Frankreich, Deutschland, Italien, Kalifornien etc.</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:36:22]</dt>
+            <dd>Was hat es dann mit Prosecco auf sich?</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:41:20]</dt>
+            <dd>Aperitiv oder Essensbegleiter?</dd>
+            </dl>
+            </Episode>
+              <Episode
                 :number="3"
                 :title="title3"
                 :description="description3"
@@ -257,7 +317,9 @@ export default {
         'Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.',
       title3: "#3 Chardonnay vs. Chardonnay",
       description3:
-        'Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.'
+        'Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.',
+      title4: '#4 Prickelnder Start in das neue Jahr',
+      description4: 'Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? Wir reden über günstige Alternativen, wie den Tilman Secco, einem Perlwein mit zugesetzter Kohlensäure. Außerdem testen wir einen Szürkebarát (ungarischen Grauburgunder) als Basis für ein Käsefondue.'
     };
   }
 };
