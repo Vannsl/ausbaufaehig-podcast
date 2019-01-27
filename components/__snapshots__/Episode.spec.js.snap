@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Episode renders the correct markup 1`] = `
+exports[`Episodeu renders the correct markup 1`] = `
 VueWrapper {
   "_emitted": Object {},
   "_emittedByOrder": Array [],

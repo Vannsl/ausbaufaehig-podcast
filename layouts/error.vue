@@ -5,7 +5,6 @@
       <section class="container h-48">
         Nothing to drink here
       </section>
-      <counter />
     </div>
     <footer-bar />
   </div>

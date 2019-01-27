@@ -65,9 +65,13 @@ export default {
     mode: "postcss"
   },
   build: {
-    loaders: [
-      { test: /\.xml$/, loader: 'xml-loader' } // will load all .xml files with xml-loader by default
-    ],
+    extend(config, { isDev, isClient }) {
+      module: {
+        loaders: [
+          { test: /\.xml$/, loader: 'xml-loader' } // will load all .xml files with xml-loader by default
+        ]
+      }
+    },
     postcss: {
       plugins: {
         tailwindcss: "./tailwind.js",
