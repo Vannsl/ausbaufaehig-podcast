@@ -2,12 +2,19 @@
   "name": "ausbaufaehig-podcast",
   "version": "1.0.1",
   "description": "ausbaufaehig-podcast.de Website",
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build --modern",
     "start": "nuxt start --modern",
     "generate": "nuxt generate --modern",
-    "spa": "nuxt build --spa"
+    "spa": "nuxt build --spa",
+    "test": "jest",
+    "prepush": "npm run test"
   },
   "author": "Vannsl",
   "license": "MIT",
@@ -18,18 +25,23 @@
     "xml-loader": "^1.2.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@vue/test-utils": "^1.0.0-beta.28",
     "autoprefixer": "^8.6.4",
-    "babel-eslint": "^8.2.1",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.0.0",
     "eslint": "^5.0.1",
     "eslint-config-prettier": "^3.1.0",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-prettier": "2.6.2",
     "eslint-plugin-vue": "^4.0.0",
     "greensock": "^1.20.2",
+    "jest": "^24.0.0",
     "node-sass": "^4.10.0",
     "nodemon": "^1.11.0",
     "prettier": "1.14.3",
     "sass-loader": "^7.1.0",
-    "vue-in-viewport-mixin": "^1.0.4"
+    "vue-in-viewport-mixin": "^1.0.4",
+    "vue-jest": "^3.0.2"
   }
 }
