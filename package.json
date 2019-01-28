@@ -22,6 +22,8 @@
   "author": "Vannsl",
   "license": "MIT",
   "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-runtime": "^7.2.0",
     "axios": "^0.18.0",
     "nuxt": "^2.3.1",
     "nuxt-purgecss": "^0.0.2",
@@ -29,8 +31,6 @@
     "xml-js": "^1.6.9"
   },
   "devDependencies": {
-    "@babel/core": "^7.2.2",
-    "@babel/plugin-transform-runtime": "^7.2.0",
     "@vue/test-utils": "^1.0.0-beta.28",
     "autoprefixer": "^8.6.4",
     "babel-core": "^7.0.0-bridge.0",
