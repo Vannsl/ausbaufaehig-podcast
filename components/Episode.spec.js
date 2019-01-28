@@ -1,7 +1,7 @@
 import { shallowMount } from "@vue/test-utils";
 import Episode from "./Episode";
 
-describe("Episodeu", () => {
+describe("Episode", () => {
   const wrapper = shallowMount(Episode, {
     propsData: {
       item: {}
