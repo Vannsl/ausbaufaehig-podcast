@@ -54,6 +54,7 @@ export default {
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
       {
+        defer,
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css?family=PT+Sans+Narrow"
       }
