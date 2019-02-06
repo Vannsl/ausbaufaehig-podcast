@@ -60,7 +60,7 @@ export default {
     ]
   },
   css: ["@/assets/reset.css", "@/assets/main.css"],
-  modules: ["nuxt-purgecss"],
+  modules: ["nuxt-purgecss", "nuxt-cache"],
   purgeCSS: {
     mode: "postcss"
   },
@@ -68,8 +68,8 @@ export default {
     extend(config, { isDev, isClient }) {
       module: {
         loaders: [
-          { test: /\.xml$/, loader: 'xml-loader' } // will load all .xml files with xml-loader by default
-        ]
+          { test: /\.xml$/, loader: "xml-loader" } // will load all .xml files with xml-loader by default
+        ];
       }
     },
     postcss: {
