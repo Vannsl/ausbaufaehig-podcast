@@ -11,14 +11,16 @@
           v-text="description"
         />
       </div>
-      <Episode :episode="currentEpisode" />
-      <div
-        v-for="(episode, index) in oldEpisodes"
-        :key="index"
-        class="my-2 w-full"
-      >
-        <Episode :episode="episode" :preview="true" />
-      </div>
+      <template v-if="isLoaded">
+        <Episode :episode="currentEpisode" />
+        <div
+          v-for="(episode, index) in oldEpisodes"
+          :key="index"
+          class="my-2 w-full"
+        >
+          <Episode :episode="episode" :preview="true" />
+        </div>
+      </template>
     </div>
   </div>
 </template>
@@ -39,6 +41,7 @@ export default {
       description: '',
       currentEpisode: {},
       oldEpisodes: [],
+      isLoaded: false,
     }
   },
   async created() {
@@ -48,6 +51,7 @@ export default {
     const [first, ...rest] = feed.item;
     this.currentEpisode = first;
     this.oldEpisodes = rest;
+    this.isLoaded = true;
   }
 };
 </script>

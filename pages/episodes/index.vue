@@ -1,8 +1,8 @@
 <template>
   <div>
-    <bar :should-check-stickyness="true"/>
+    <bar/>
     <div class="content flex-1">
-      <section class="container mx-auto mt-32 mb-16 p-4">
+      <section class="container mx-auto my-16 p-4">
         <Episodes/>
       </section>
     </div>

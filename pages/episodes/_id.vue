@@ -1,9 +1,9 @@
 <template>
   <div>
-    <bar :should-check-stickyness="true"/>
+    <bar/>
     <div class="content flex-1">
-      <section class="container mx-auto mt-32 mb-16 p-4">
-        <div class="box sm:p-8">
+      <section class="container mx-auto my-16 p-4">
+        <div v-if="isLoaded" class="box sm:p-8">
           <Episode :episode="item" :showDivider="false" />
         </div>
       </section>
@@ -48,12 +48,14 @@ export default {
   data() {
     return {
       item: {},
+      isLoaded: false,
     }
   },
   async created() {
     // save in store
     const feed = await FeedApi.getFeed();
     this.item = feed.item && feed.item.find(item => item.number._text === this.$route.params.id);
+    this.isLoaded = true;
   }
 };
 </script>
