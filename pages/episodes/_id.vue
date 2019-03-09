@@ -3,8 +3,10 @@
     <bar/>
     <div class="content flex-1">
       <section class="container mx-auto my-16 p-4">
-        <div v-if="isLoaded" class="box sm:p-8">
-          <Episode :episode="item" :showDivider="false" />
+        <div v-if="isLoaded" class="box px-4 sm:p-8">
+          <div class="my-2 w-full">
+            <Episode :episode="item" :showDivider="false" />
+          </div>
         </div>
       </section>
     </div>

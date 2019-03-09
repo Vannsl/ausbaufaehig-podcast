@@ -12,7 +12,9 @@
         />
       </div>
       <template v-if="isLoaded">
-        <Episode :episode="currentEpisode" />
+        <div class="my-2 w-full">
+          <Episode :episode="currentEpisode"  />
+        </div>
         <div
           v-for="(episode, index) in oldEpisodes"
           :key="index"

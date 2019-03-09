@@ -4,7 +4,7 @@
     <h2 class="text-2xl py-4 text-center">
       <nuxt-link class="text-primary no-underline hover:underline" :to="path">{{ title }}</nuxt-link>
     </h2>
-    <p v-html="description" class="text-xl w-full leading-tight my-2"/>
+    <p v-html="description" class="text-xl w-full leading-tight my-2 break-words"/>
     <template v-if="!preview">
       <div class="text-center mb-8 mt-6">
         <audio controls v-show="src" class="max-w-full">
