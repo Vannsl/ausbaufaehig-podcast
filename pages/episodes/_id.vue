@@ -5,7 +5,12 @@
       <section class="container mx-auto my-16 p-4">
         <div v-if="isLoaded" class="box px-4 sm:p-8">
           <div class="my-2 w-full">
-            <Episode :episode="item" :showDivider="false" />
+            <Episode v-if="item" :episode="item" :showDivider="false" />
+            <div v-else>
+              <p class="my-4">Wir sind noch am Trinken für Episode {{$route.params.id}}.</p>
+              <p class="my-2"><nuxt-link class="text-primary no-underline hover:underline" to="/episodes/">&larr; Zur Episodenliste</nuxt-link></p>
+              <p class="my-2"><nuxt-link class="text-primary no-underline hover:underline" to="/">&larr; Zur Startseite</nuxt-link></p>
+            </div>
           </div>
         </div>
       </section>

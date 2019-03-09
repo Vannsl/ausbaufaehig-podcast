@@ -1,15 +1,8 @@
 <template>
   <div>
-    <bar :should-check-stickyness="true"/>
+    <bar/>
     <div class="content flex-1">
-      <hero/>
-      <section :class="classList">
-        <About/>
-      </section>
-      <section :class="classList">
-        <Episodes/>
-      </section>
-      <counter/>
+      404: Not found.
     </div>
     <footer-bar/>
   </div>
