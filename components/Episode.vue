@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="h-px w-max my-8 bg-grey-lighter"/>
+    <div v-if="showDivider" class="h-px w-max my-8 bg-grey-lighter"/>
     <h2 class="text-xl text-center">{{ title }}</h2>
     <div class="text-center my-4">
       <audio controls class="max-w-full">
@@ -33,6 +33,10 @@ export default {
     item: {
       type: Object,
       required: true
+    },
+    showDivider: {
+      type: Boolean,
+      default: true,
     }
   },
   computed: {

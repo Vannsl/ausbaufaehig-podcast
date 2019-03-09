@@ -40,6 +40,7 @@ export default {
     }
   },
   async created() {
+    // TODO: save in store
     const feed = await FeedApi.getFeed();
     this.description = feed.description && feed.description._text;
     this.items = feed.item;

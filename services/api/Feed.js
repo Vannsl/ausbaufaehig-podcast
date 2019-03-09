@@ -6,7 +6,7 @@ export default {
     let result;
 
     try {
-      const response = await axios.get("./feed.xml");
+      const response = await axios.get("/feed.xml");
       const { rss } = JSON.parse(
         xml2json(response.data, { compact: true, spaces: 4 })
       );
