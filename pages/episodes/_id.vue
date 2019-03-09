@@ -4,7 +4,7 @@
     <div class="content flex-1">
       <section class="container mx-auto mt-32 mb-16 p-4">
         <div class="box sm:p-8">
-          <Episode :item="item" :showDivider="false" />
+          <Episode :episode="item" :showDivider="false" />
         </div>
       </section>
     </div>

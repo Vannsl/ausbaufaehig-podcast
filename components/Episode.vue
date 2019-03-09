@@ -1,18 +1,22 @@
 <template>
   <div>
     <div v-if="showDivider" class="h-px w-max my-8 bg-grey-lighter"/>
-    <h2 class="text-xl text-center">{{ title }}</h2>
-    <div class="text-center my-4">
-      <audio controls class="max-w-full">
-        <source :src="src" type="audio/mpeg">Your browser does not support the audio element.
-      </audio>
-    </div>
+    <h2 class="text-2xl py-4 text-center">
+      <nuxt-link class="text-primary no-underline hover:underline" :to="path">{{ title }}</nuxt-link>
+    </h2>
     <p v-html="description" class="text-xl w-full leading-tight my-2"/>
-    <div v-if="showNotes" @click="toggleNotices" class="flex w-24 group cursor-pointer">
-      <h3 class="text-l mb-4 group-hover:text-primary">Show Notes</h3>
-      <Arrow :direction="direction"/>
-    </div>
-    <div v-show="show" v-html="showNotes"/>
+    <template v-if="!preview">
+      <div class="text-center mb-8 mt-6">
+        <audio controls v-show="src" class="max-w-full">
+          <source :src="src | trim" type="audio/mpeg">Your browser does not support the audio element.
+        </audio>
+      </div>
+      <div v-if="showNotes" @click="toggleNotices" class="flex w-24 group cursor-pointer">
+        <h3 class="text-l mb-4 group-hover:text-primary">Show Notes</h3>
+        <Arrow :direction="direction"/>
+      </div>
+      <div v-show="show" v-html="showNotes"/>
+    </template>
   </div>
 </template>
 
@@ -30,26 +34,40 @@ export default {
     };
   },
   props: {
-    item: {
+    episode: {
       type: Object,
       required: true
     },
     showDivider: {
       type: Boolean,
       default: true,
+    },
+    preview: {
+      type: Boolean,
+      default: false,
+    }
+  },
+  filters: {
+    trim(value) {
+      if (!value) return ''
+      value = value.toString()
+      return value.trim();
     }
   },
   computed: {
     direction() {
       return this.show ? "up" : "down";
     },
+    path() {
+      return `/episodes/${this.episode.number && this.episode.number._text}`;
+    },
     title() {
-      return this.item.title && this.item.title._text;
+      return this.episode.title && this.episode.title._text;
     },
     content() {
       return (
-        this.item["content:encoded"] && this.item["content:encoded"]._cdata ||
-        this.item.description && this.item.description._cdata
+        this.episode["content:encoded"] && this.episode["content:encoded"]._cdata ||
+        this.episode.description && this.episode.description._cdata
       );
     },
     parsedContent() {
@@ -62,7 +80,7 @@ export default {
       return this.parsedContent[1];
     },
     src() {
-      return this.item.link && this.item.link._text;
+      return this.episode.link && this.episode.link._text;
     }
   },
   methods: {

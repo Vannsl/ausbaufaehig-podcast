@@ -11,12 +11,13 @@
           v-text="description"
         />
       </div>
+      <Episode :episode="currentEpisode" />
       <div
-        v-for="(item, index) in items"
+        v-for="(episode, index) in oldEpisodes"
         :key="index"
         class="my-2 w-full"
       >
-        <Episode :item="item" />
+        <Episode :episode="episode" :preview="true" />
       </div>
     </div>
   </div>
@@ -36,15 +37,18 @@ export default {
   data() {
     return {
       description: '',
-      items: [],
+      currentEpisode: {},
+      oldEpisodes: [],
     }
   },
   async created() {
     // TODO: save in store
     const feed = await FeedApi.getFeed();
     this.description = feed.description && feed.description._text;
-    this.items = feed.item;
+    const [first, ...rest] = feed.item;
+    this.currentEpisode = first;
+    this.oldEpisodes = rest;
   }
 };
 </script>
-
+ 

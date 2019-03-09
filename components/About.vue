@@ -13,13 +13,13 @@
         <br>Für News folge gerne unserem
         <a
           href="https://twitter.com/ausbaufahig"
-          class="hover:text-primary"
+          class="text-primary no-underline hover:underline"
           target="_blank"
           rel="noopener"
         >Twitter-Account</a> oder schaue dir Bilder auf
         <a
           href="https://www.instagram.com/ausbaufaehig_podcast/"
-          class="hover:text-primary"
+          class="text-primary no-underline hover:underline"
           target="_blank"
           rel="noopener"
         >Instagram</a> an.
@@ -27,7 +27,7 @@
         <br>Hast du Fragen oder Wünsche (wie einen bestimmten Wein)? Dann schreibe uns an
         <a
           href="mailto:ausbaufaehig@vannsl.io"
-          class="hover:text-primary"
+          class="text-primary no-underline hover:underline"
         >ausbaufaehig@vannsl.io</a>.
       </div>
     </div>
