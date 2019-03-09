@@ -53,7 +53,7 @@ export default {
   async created() {
     // save in store
     const feed = await FeedApi.getFeed();
-    this.item = feed.item && feed.item.filter(item => item.number._text === this.$route.params.id);
+    this.item = feed.item && feed.item.find(item => item.number._text === this.$route.params.id);
   }
 };
 </script>
