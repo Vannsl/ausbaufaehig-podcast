@@ -39,10 +39,79 @@
       <itunes:category text="Arts"/>
       <itunes:category text="Food"/>
       <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
+    <item>
+        <title>#6 Spontankauf im Supermarkt (1)</title>
+        <number>6</number>
+        <countries>
+            <country>Spain</country>
+        </countries>
+        <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3</link>
+        <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
+        <description>
+            <![CDATA[Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.]]>
+        </description>
+        <content:encoded>
+            <![CDATA[<p>Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
+            </p><p>Wein: 93 Parker Punkte: La Tercera Reserva Rioja 2010<br>
+            <h3>Show Notes</h3>
+            <dl>
+            <dt>[00:00:21]</dt>
+            <dd>Spontaneinkauf des Weins im Supermarkt</dd>
+            </dl>
 
+            <dl>
+            <dt>[00:04:10]</dt>
+            <dd>Vorstellung des Weins</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:09:32]</dt>
+            <dd>Rioja Wein - wir trinken</dd>
+            </dl>
+
+            <dl>
+            <dt>[00:14:35]</dt>
+            <dd>Zweite Verkostung eine Stunde später</dd>
+            </dl>
+            ]]>
+        </content:encoded>
+        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3" length="12795820" type="audio/mpeg"/>
+        <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3
+        </guid>
+        <itunes:duration>00:21:10</itunes:duration>
+        <itunes:subtitle>Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
+        </itunes:subtitle>
+        <itunes:summary>
+            Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
+
+            Wein: 93 Parker Punkte: La Tercera Reserva Rioja 2010
+
+            Show Notes
+            [00:00:21]
+            Spontaneinkauf des Weins im Supermarkt
+
+            [00:04:10]
+            Vorstellung des Weins
+
+            [00:09:32]
+            Rioja Wein - wir trinken
+
+            [00:14:35]
+            Zweite Verkostung eine Stunde später
+        </itunes:summary>
+        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+        <itunes:keywords>
+            rioja, ausbaufaehig, tinto, rotwein, weintasting, weinprobe, joven, crianza, reserva
+        </itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
       <item>
         <title>#5 Kanarische Erinnerungen</title>
         <number>5</number>
+        <countries>
+            <country>Spain</country>
+        </countries>
         <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3</link>
         <pubDate>Sam, 02 Mar 2019 03:00:00 PDT</pubDate>
         <description>
