@@ -11,24 +11,22 @@
           v-text="description"
         />
       </div>
-      <template v-if="isLoaded">
-        <div class="my-2 w-full">
-          <Episode :episode="currentEpisode"  />
-        </div>
-        <div
-          v-for="(episode, index) in oldEpisodes"
-          :key="index"
-          class="my-2 w-full"
-        >
-          <Episode :episode="episode" :preview="true" />
-        </div>
-      </template>
+      <div class="my-2 w-full">
+        <Episode :episode="currentEpisode"  />
+      </div>
+      <div
+        v-for="(episode, index) in oldEpisodes"
+        :key="index"
+        class="my-2 w-full"
+      >
+        <Episode :episode="episode" :preview="true" />
+      </div>
     </div>
   </div>
 </template>
 
 <script>
-import FeedApi from "~/services/api/Feed";
+import feed from "~/static/feed";
 import RSS from "~/components/icons/RSS.vue";
 import Episode from "~/components/Episode.vue";
 
@@ -43,17 +41,13 @@ export default {
       description: '',
       currentEpisode: {},
       oldEpisodes: [],
-      isLoaded: false,
     }
   },
-  async created() {
-    // TODO: save in store
-    const feed = await FeedApi.getFeed();
+  created() {
     this.description = feed.description && feed.description._text;
     const [first, ...rest] = feed.item;
     this.currentEpisode = first;
     this.oldEpisodes = rest;
-    this.isLoaded = true;
   }
 };
 </script>

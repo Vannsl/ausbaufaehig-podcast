@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import FeedApi from "~/services/api/Feed";
+import feed from "~/static/feed";
 import Bar from "~/components/Bar.vue";
 import Episode from "~/components/Episode.vue";
 import FooterBar from "~/components/Footer.vue";
@@ -49,8 +49,7 @@ export default {
     };
   },
   validate ({ params }) {
-    // Must be a number
-    return /^\d+$/.test(params.id)
+    return /^\d+$/.test(params.id);
   },
   data() {
     return {
@@ -58,9 +57,7 @@ export default {
       isLoaded: false,
     }
   },
-  async created() {
-    // save in store
-    const feed = await FeedApi.getFeed();
+  created() {
     this.item = feed.item && feed.item.find(item => item.number._text === this.$route.params.id);
     this.isLoaded = true;
   }
