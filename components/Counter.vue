@@ -3,14 +3,13 @@
     <div class="container-md flex justify-center flex-wrap py-32">
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
-          :count="8"
+          :count="episodeCounter"
           title="Episoden"
         >
           <podcast />
         </icon-counter>
-        <!-- Deutschland, Frankreich, Neuseeland, Spanien -->
         <icon-counter
-          :count="4"
+          :count="countryCounter"
           title="Länder"
         >
           <earth />
@@ -18,13 +17,13 @@
       </div>
       <div class="flex justify-around w-400 max-w-full">
         <icon-counter
-          :count="11"
+          :count="wineCounter"
           title="Flaschen"
         >
           <bottle />
         </icon-counter>
         <icon-counter
-          :count="34"
+          :count="glassCounter"
           title="Gläser"
         >
           <glass />
@@ -35,6 +34,7 @@
 </template>
 
 <script>
+import { feed } from "~/assets/feed";
 import Earth from "~/components/icons/Earth.vue";
 import Glass from "~/components/icons/Glass.vue";
 import Bottle from "~/components/icons/Bottle.vue";
@@ -52,12 +52,36 @@ export default {
   },
   data() {
     return {
-      episodes: 0,
-      bottles: 2,
-      glasses: 6,
-      countries: 1
+      wineCounter: 0,
+      episodeCounter: 0,
+      glassCounter: 0,
+      countryCounter: 0
     };
-  }
+  },
+  created() {
+    let countries = [];
+    let wines = [];
+    let glasses = 0;
+    feed.item.forEach(item => {
+      countries = [...countries, ...this.getFeedValuesFor(item, 'countries')];
+      wines = [...wines, ...this.getFeedValuesFor(item, 'wines')];
+      glasses += (item.glasses && parseInt(item.glasses._text)) || 0;
+    });
+    this.glassCounter = glasses;
+    this.countryCounter = [...new Set(countries)].length;
+    this.wineCounter = [...new Set(wines)].length;
+    this.episodeCounter = feed.item.length;
+  },
+  methods: {
+    getFeedValuesFor(item, key) {
+      let textArr = [];
+      const valueOrValues = item[key] && item[key].value;
+      if (valueOrValues) {
+        textArr = Array.isArray(valueOrValues) ? valueOrValues.map(value => value._text) : [valueOrValues._text];
+      }
+      return textArr;
+    },
+  },
 };
 </script>
 

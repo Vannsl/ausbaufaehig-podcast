@@ -42,9 +42,13 @@
         <item>
             <title>#8 WeinTour München 2019</title>
             <number>8</number>
-            <countries>
-                <country>Deutschland</country>
+            <countries type="array">
+                <value>Deutschland</value>
             </countries>
+            <wines type="array">
+                <value>Steitz vom Donnersberg, Muskateller 2018, feinherb, Rheinhessen</value>
+            </wines>
+            <glasses>2</glasses>
             <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3</link>
             <pubDate>Thu, 25 Apr 2019 09:00:00 PDT</pubDate>
             <description>
@@ -129,9 +133,13 @@
         <item>
             <title>#7 Grauburgunder aus dem Adventskalender</title>
             <number>7</number>
-            <countries>
-                <country>Deutschland</country>
+            <countries type="array">
+                <value>Deutschland</value>
             </countries>
+            <wines type="array">
+                <value>2016 Grauburgunder RS - VDP.Ortswein Q.b.A. - Sonderedition für Pro-Idee</value>
+            </wines>
+            <glasses>4</glasses>
             <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_7.mp3</link>
             <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
             <description>
@@ -235,9 +243,13 @@
         <item>
             <title>#6 Spontankauf im Supermarkt (1)</title>
             <number>6</number>
-            <countries>
-                <country>Spanien</country>
+            <countries type="array">
+                <value>Spanien</value>
             </countries>
+            <wines type="array">
+                <value>La Tercera Reserva Rioja 2010</value>
+            </wines>
+            <glasses>4</glasses>
             <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3</link>
             <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
             <description>
@@ -302,9 +314,14 @@
         <item>
             <title>#5 Kanarische Erinnerungen</title>
             <number>5</number>
-            <countries>
-                <country>Spanien</country>
+            <countries type="array">
+                <value>Spanien</value>
             </countries>
+            <wines type="array">
+                <value>Pagos de Reverón</value>
+                <value>Rubicon Rosado</value>
+            </wines>
+            <glasses>6</glasses>
             <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3</link>
             <pubDate>Sam, 02 Mar 2019 03:00:00 PDT</pubDate>
             <description>
@@ -417,9 +434,13 @@
         <item>
             <title>#4 Prickelnder Start in das neue Jahr</title>
             <number>4</number>
-            <countries>
-                <country>Frankreich</country>
+            <countries type="array">
+                <value>Frankreich</value>
             </countries>
+            <wines type="array">
+                <value>Moet et Chandon</value>
+            </wines>
+            <glasses>4</glasses>
             <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_4.mp3
             </link>
@@ -547,10 +568,15 @@
         <item>
             <title>#3 Chardonnay vs. Chardonnay</title>
             <number>3</number>
-            <countries>
-                <country>Deutschland</country>
-                <country>Frankreich</country>
+            <countries type="array">
+                <value>Deutschland</value>
+                <value>Frankreich</value>
             </countries>
+            <wines type="array">
+                <value>Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet</value>
+                <value>Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen</value>
+            </wines>
+            <glasses>4</glasses>
             <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3
             </link>
@@ -683,9 +709,13 @@
         <item>
             <title>#2 Syrah in der Glühweinzeit</title>
             <number>2</number>
-            <countries>
-                <country>Neuseeland</country>
+            <countries type="array">
+                <value>Neuseeland</value>
             </countries>
+            <wines type="array">
+                <value>Blank Canvas</value>
+            </wines>
+            <glasses>3</glasses>
             <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_2.mp3
             </link>
@@ -783,9 +813,14 @@
         <item>
             <title>#1 Es rieselt von der Mosel</title>
             <number>1</number>
-            <countries>
-                <country>Deutschland</country>
+            <countries type="array">
+                <value>Deutschland</value>
             </countries>
+            <wines type="array">
+                <value>2016 Riesling Erdener Treppchen Kabinett trocken</value>
+                <value>2016 Riesling Wehlener Klosterberg trocken</value>
+            </wines>
+            <glasses>3</glasses>
             <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
             </link>

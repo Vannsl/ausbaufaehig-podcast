@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import feed from "~/static/feed";
+import { feed } from "~/assets/feed";
 import RSS from "~/components/icons/RSS.vue";
 import Episode from "~/components/Episode.vue";
 

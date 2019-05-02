@@ -5,19 +5,20 @@
 const fs = require('fs');
 const { xml2json } = require('xml-js');
 
-const dir = './static';
+const dirSrc = './static';
+const dirDest = './assets';
 const fileName = 'feed';
 
 module.exports.transform = () => {
-  fs.readFile(`${dir}/${fileName}.xml`, (err, data) => {
+  fs.readFile(`${dirSrc}/${fileName}.xml`, (err, data) => {
     const { rss } = JSON.parse(
       xml2json(data, { compact: true, spaces: 4 })
     );
     const { channel } = rss;
     const feedJson = JSON.stringify(channel);
-    const feedJs = `module.exports = ${feedJson}`;
+    const feedJs = `export const feed = ${feedJson}`;
 
-    fs.writeFile(`${dir}/${fileName}.js`, feedJs, (err) => {
+    fs.writeFile(`${dirDest}/${fileName}.js`, feedJs, (err) => {
       if (err) throw err;
       console.log('Feed XML written to JSON file');
     });

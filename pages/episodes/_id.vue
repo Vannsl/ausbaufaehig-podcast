@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import feed from "~/static/feed";
+import { feed } from "~/assets/feed";
 import Bar from "~/components/Bar.vue";
 import Episode from "~/components/Episode.vue";
 import FooterBar from "~/components/Footer.vue";
