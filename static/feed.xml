@@ -1,98 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
->
-  <channel>
-      <title>Ausbaufähig</title>
-      <link>https://www.ausbaufaehig-podcast.de</link>
-      <image>
-          <url>https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg</url>
-          <title>Ausbaufähig</title>
-          <link>https://www.ausbaufaehig-podcast.de</link>
-      </image>
-      <description>
-          Der Wein-Podcast von Ben und Vanessa. Wir haben beruflich nichts mit Wein zu tun, wir trinken einfach nur gerne und reden dann darüber! Alle Weine wurden privat gekauft und sind für uns meistens auch neu.
-      </description>
-      <language>de-de</language>
-      <copyright>© Vanessa Böhner 2018</copyright>
-      <atom:link href="https://ausbaufaehig-podcast.de/feed.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 21 Nov 2018 09:01:00 PDT</lastBuildDate>
-      <itunes:author>Vanessa und Ben</itunes:author>
-      <itunes:summary>
-          Ben und Vanessa trinken Weine aus aller Welt
-      </itunes:summary>
-      <itunes:subtitle>Ben und Vanessa trinken Weine aus aller Welt</itunes:subtitle>
-      <itunes:owner>
-          <itunes:name>Vanessa Böhner</itunes:name>
-          <itunes:email>boehner.vanessa@gmail.com</itunes:email>
-      </itunes:owner>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:keywords>
-          wein, vino, winetasting, weinverkostung, rotwein, weisswein, sekt, schaumwein, rosewein
-      </itunes:keywords>
-      <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-      <rawvoice:rating>TV-G</rawvoice:rating>
-      <rawvoice:location>Munich, Germany</rawvoice:location>
-      <rawvoice:frequency>Biweekly</rawvoice:frequency>
-      <itunes:category text="Arts"/>
-      <itunes:category text="Food"/>
-      <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
-    <item>
-        <title>#8 WeinTour München 2019</title>
-        <number>8</number>
-        <countries>
-            <country>Deutschland</country>
-        </countries>
-        <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3</link>
-        <pubDate>Thu, 25 Apr 2019 09:00:00 PDT</pubDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Ausbaufähig</title>
+        <link>https://www.ausbaufaehig-podcast.de</link>
+        <image>
+            <url>https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg</url>
+            <title>Ausbaufähig</title>
+            <link>https://www.ausbaufaehig-podcast.de</link>
+        </image>
         <description>
-            <![CDATA[Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.]]>
+          Der Wein-Podcast von Ben und Vanessa. Wir haben beruflich nichts mit Wein zu tun, wir trinken einfach nur gerne und reden dann darüber! Alle Weine wurden privat gekauft und sind für uns meistens auch neu.
         </description>
-        <content:encoded>
-            <![CDATA[<p>Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.
-            </p><p>Wein: Steitz vom Donnersberg, Muskateller 2018, feinherb, Rheinhessen</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:00]</dt>
-            <dd>Einleitung zur WeinTour</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:05:02]</dt>
-            <dd>Kastanienhof Weingut Esseln (Mosel)</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:09:12]</dt>
-            <dd>Bioland-Weingut Neuspergerhof (Pfalz)</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:15:51]</dt>
-            <dd>Weingut Kirsten (Mosel)</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:23:13]</dt>
-            <dd>Steitz vom Donnersberg (Rheinhessen)</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:31:10]</dt>
-            <dd>Weingut Maurer (Rheinhessen)</dd>
-            </dl>
-            ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3" length="22755946" type="audio/mpeg"/>
-        <guid>
-            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3
-        </guid>
-        <itunes:duration>00:37:55</itunes:duration>
-        <itunes:subtitle>Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.
-        </itunes:subtitle>
+        <language>de-de</language>
+        <copyright>© Vanessa Böhner 2018</copyright>
+        <atom:link href="https://ausbaufaehig-podcast.de/feed.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Nov 2018 09:01:00 PDT</lastBuildDate>
+        <itunes:author>Vanessa und Ben</itunes:author>
         <itunes:summary>
+          Ben und Vanessa trinken Weine aus aller Welt
+        </itunes:summary>
+        <itunes:subtitle>Ben und Vanessa trinken Weine aus aller Welt</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Vanessa Böhner</itunes:name>
+            <itunes:email>boehner.vanessa@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:keywords>
+          wein, vino, winetasting, weinverkostung, rotwein, weisswein, sekt, schaumwein, rosewein
+        </itunes:keywords>
+        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+        <rawvoice:rating>TV-G</rawvoice:rating>
+        <rawvoice:location>Munich, Germany</rawvoice:location>
+        <rawvoice:frequency>Biweekly</rawvoice:frequency>
+        <itunes:category text="Arts"/>
+        <itunes:category text="Food"/>
+        <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
+        <item>
+            <title>#8 WeinTour München 2019</title>
+            <number>8</number>
+            <countries>
+                <country>Deutschland</country>
+            </countries>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3</link>
+            <pubDate>Thu, 25 Apr 2019 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.
+            </p><p>Wein: Steitz vom Donnersberg, Muskateller 2018, feinherb, Rheinhessen</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:00]</dt>
+<dd>Einleitung zur WeinTour</dd>
+</dl>
+
+<dl>
+<dt>[00:05:02]</dt>
+<dd>Kastanienhof Weingut Esseln (Mosel)</dd>
+</dl>
+
+<dl>
+<dt>[00:09:12]</dt>
+<dd>Bioland-Weingut Neuspergerhof (Pfalz)</dd>
+</dl>
+
+<dl>
+<dt>[00:15:51]</dt>
+<dd>Weingut Kirsten (Mosel)</dd>
+</dl>
+
+<dl>
+<dt>[00:23:13]</dt>
+<dd>Steitz vom Donnersberg (Rheinhessen)</dd>
+</dl>
+
+<dl>
+<dt>[00:31:10]</dt>
+<dd>Weingut Maurer (Rheinhessen)</dd>
+</dl>
+            ]]>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3" length="22755946" type="audio/mpeg"/>
+            <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_8.mp3
+            </guid>
+            <itunes:duration>00:37:55</itunes:duration>
+            <itunes:subtitle>Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.
+            </itunes:subtitle>
+            <itunes:summary>
             Spezialepisode über unseren Besuch bei der WeinTour 2019 in der Alten Kongresshalle in München. Einer Weinmesse mit deutschen Winzern, unterteilt in die verschiedenen Anbaugebiete. Wir erzählen über alle Stände, bei denen wir etwas getrunken haben.
 
             Wein: Steitz vom Donnersberg, Muskateller 2018, feinherb, Rheinhessen
@@ -119,76 +119,76 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             weinprobe, weisswein, rotwein, mosel, winetasting, ausbaufaehig, ausbaufähig, ausbaufahig, wein
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-      <item>
-        <title>#7 Grauburgunder aus dem Adventskalender</title>
-        <number>7</number>
-        <countries>
-            <country>Deutschland</country>
-        </countries>
-        <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_7.mp3</link>
-        <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
-        <description>
-            <![CDATA[Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch [&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch solche Geschenke doch wieder... "gezwungen" wird, seine eigenen Vorurteile nochmal zu hinterfragen.
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#7 Grauburgunder aus dem Adventskalender</title>
+            <number>7</number>
+            <countries>
+                <country>Deutschland</country>
+            </countries>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_7.mp3</link>
+            <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch [&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch solche Geschenke doch wieder... "gezwungen" wird, seine eigenen Vorurteile nochmal zu hinterfragen.
             </p><p>Wein: 2016 Grauburgunder RS - VDP.Ortswein Q.b.A. - Sonderedition für Pro-Idee<br>Link: https://www.salwey.de/artikeldetails/kategorie/reserve-salwey-rs/artikel/id-2016-grauburgunder-rs.html<br>Preis: 16€<br>Ausbau: Barrique<br><br>Restzucker: 1g</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:01:36]</dt>
-            <dd>Sonderedition für Pro-Idee mit Sonderpreis</dd>
-            </dl>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:01:36]</dt>
+<dd>Sonderedition für Pro-Idee mit Sonderpreis</dd>
+</dl>
 
-            <dl>
-            <dt>[00:02:33]</dt>
-            <dd>Unsere Meinung zu Grauburgunder vor der Verkostung</dd>
-            </dl>
+<dl>
+<dt>[00:02:33]</dt>
+<dd>Unsere Meinung zu Grauburgunder vor der Verkostung</dd>
+</dl>
 
-            <dl>
-            <dt>[00:07:06]</dt>
-            <dd>Wir probieren. Wie schmeckts?</dd>
-            </dl>
+<dl>
+<dt>[00:07:06]</dt>
+<dd>Wir probieren. Wie schmeckts?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:12:20]</dt>
-            <dd>Blandy, der Madeira-Wein</dd>
-            </dl>
+<dl>
+<dt>[00:12:20]</dt>
+<dd>Blandy, der Madeira-Wein</dd>
+</dl>
 
-            <dl>
-            <dt>[00:14:00]</dt>
-            <dd>Verwandtschaften der Burgundersorten</dd>
-            </dl>
+<dl>
+<dt>[00:14:00]</dt>
+<dd>Verwandtschaften der Burgundersorten</dd>
+</dl>
 
-            <dl>
-            <dt>[00:23:15]</dt>
-            <dd>Geringer Tanningehalt bei Spätburgunder erklärt</dd>
-            </dl>
+<dl>
+<dt>[00:23:15]</dt>
+<dd>Geringer Tanningehalt bei Spätburgunder erklärt</dd>
+</dl>
 
-            <dl>
-            <dt>[00:26:18]</dt>
-            <dd>Wer oder was ist der VDP?</dd>
-            </dl>
+<dl>
+<dt>[00:26:18]</dt>
+<dd>Wer oder was ist der VDP?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:30:59]</dt>
-            <dd>Prädikatsweine: Gutsweine, Ortsweine, Erste Lage, Großes Gewächs</dd>
+<dl>
+<dt>[00:30:59]</dt>
+<dd>Prädikatsweine: Gutsweine, Ortsweine, Erste Lage, Großes Gewächs</dd>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_7.mp3" length="22846929" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_7.mp3" length="22846929" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_7.mp3
-        </guid>
-        <itunes:duration>00:38:04</itunes:duration>
-        <itunes:subtitle>Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch [...]
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>00:38:04</itunes:duration>
+            <itunes:subtitle>Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch [...]
+            </itunes:subtitle>
+            <itunes:summary>
             Diesmal trinken wir einen Grauburgunder (des Weinguts Salwey) aus dem Wein-Adventskalender, den wir letztes Jahr geschenkt bekamen und immer noch am Trinken sind. Üblicherweise sind mir keine Fans von Burgunder-Sorten, umso spannender wenn man durch solche Geschenke doch wieder... "gezwungen" wird, seine eigenen Vorurteile nochmal zu hinterfragen.
 
             Wein: 2016 Grauburgunder RS - VDP.Ortswein Q.b.A. - Sonderedition für Pro-Idee
@@ -225,57 +225,57 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             weisswein, ausbaufaehig, ausbaufähig, grauburgunder, weintasting, weinprobe, burgunder, vdp, prädikatswein, gutswein, lagenwein, erstelage
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>#6 Spontankauf im Supermarkt (1)</title>
-        <number>6</number>
-        <countries>
-            <country>Spain</country>
-        </countries>
-        <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3</link>
-        <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
-        <description>
-            <![CDATA[Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#6 Spontankauf im Supermarkt (1)</title>
+            <number>6</number>
+            <countries>
+                <country>Spanien</country>
+            </countries>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3</link>
+            <pubDate>Wed, 27 Mar 2019 05:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
             </p><p>Wein: 93 Parker Punkte: La Tercera Reserva Rioja 2010</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:21]</dt>
-            <dd>Spontaneinkauf des Weins im Supermarkt</dd>
-            </dl>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:21]</dt>
+<dd>Spontaneinkauf des Weins im Supermarkt</dd>
+</dl>
 
-            <dl>
-            <dt>[00:04:10]</dt>
-            <dd>Vorstellung des Weins</dd>
-            </dl>
+<dl>
+<dt>[00:04:10]</dt>
+<dd>Vorstellung des Weins</dd>
+</dl>
 
-            <dl>
-            <dt>[00:09:32]</dt>
-            <dd>Rioja Wein - wir trinken</dd>
-            </dl>
+<dl>
+<dt>[00:09:32]</dt>
+<dd>Rioja Wein - wir trinken</dd>
+</dl>
 
-            <dl>
-            <dt>[00:14:35]</dt>
-            <dd>Zweite Verkostung eine Stunde später</dd>
-            </dl>
+<dl>
+<dt>[00:14:35]</dt>
+<dd>Zweite Verkostung eine Stunde später</dd>
+</dl>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3" length="12795820" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3" length="12795820" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_6.mp3
-        </guid>
-        <itunes:duration>00:21:10</itunes:duration>
-        <itunes:subtitle>Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>00:21:10</itunes:duration>
+            <itunes:subtitle>Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
+            </itunes:subtitle>
+            <itunes:summary>
             Spontankauf im Supermarkt. In dieser Kurzepisode besprechen wir einen frisch gekauften, spanischen Rioja. Wir reden über verwirrende Rabattaktionen im österreichischen Supermarkt und nach welchen Kriterien wir im Laden einen Wein aussuchen.
 
             Wein: 93 Parker Punkte: La Tercera Reserva Rioja 2010
@@ -292,84 +292,84 @@
 
             [00:14:35]
             Zweite Verkostung eine Stunde später
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             rioja, ausbaufaehig, tinto, rotwein, weintasting, weinprobe, joven, crianza, reserva
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-      <item>
-        <title>#5 Kanarische Erinnerungen</title>
-        <number>5</number>
-        <countries>
-            <country>Spain</country>
-        </countries>
-        <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3</link>
-        <pubDate>Sam, 02 Mar 2019 03:00:00 PDT</pubDate>
-        <description>
-            <![CDATA[Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift) aus Teneriffa[&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift, ein sog. Jungwein) aus Teneriffa. Wir erzählen, wie wir zu diesen beiden Weinen gekommen sind, was die Titel Joven, Crianza, Reserve und Gran Reserve bedeuten. Was macht die kanarischen Weine besonders und wie schaffen sie es auf den kargen Landschaften aus Lanzarote überhaupt Weinreben anzubauen? Und warum mag Ben den Rotwein nicht?
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#5 Kanarische Erinnerungen</title>
+            <number>5</number>
+            <countries>
+                <country>Spanien</country>
+            </countries>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3</link>
+            <pubDate>Sam, 02 Mar 2019 03:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift) aus Teneriffa[&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift, ein sog. Jungwein) aus Teneriffa. Wir erzählen, wie wir zu diesen beiden Weinen gekommen sind, was die Titel Joven, Crianza, Reserve und Gran Reserve bedeuten. Was macht die kanarischen Weine besonders und wie schaffen sie es auf den kargen Landschaften aus Lanzarote überhaupt Weinreben anzubauen? Und warum mag Ben den Rotwein nicht?
             </p><p>Links:<br>
-            <a href="http://bodegasrubicon.com/de/vinos/rubicon-rosado/" target="_blank">http://bodegasrubicon.com/de/vinos/rubicon-rosado/</a><br>
-            <a href="https://www.bodegareveron.com/vinos/tinto-joven-eco/" target="_blank">https://www.bodegareveron.com/vinos/tinto-joven-eco/</a></p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:02:30]</dt>
-            <dd>Einkauf der Rubicon-Weine</dd>
-            </dl>
+<a href="http://bodegasrubicon.com/de/vinos/rubicon-rosado/" target="_blank">http://bodegasrubicon.com/de/vinos/rubicon-rosado/</a><br>
+<a href="https://www.bodegareveron.com/vinos/tinto-joven-eco/" target="_blank">https://www.bodegareveron.com/vinos/tinto-joven-eco/</a></p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:02:30]</dt>
+<dd>Einkauf der Rubicon-Weine</dd>
+</dl>
 
-            <dl>
-            <dt>[00:04:23]</dt>
-            <dd>Wir trinken Rubicon Rosado!</dd>
-            </dl>
+<dl>
+<dt>[00:04:23]</dt>
+<dd>Wir trinken Rubicon Rosado!</dd>
+</dl>
 
-            <dl>
-            <dt>[00:12:54]</dt>
-            <dd>Ist kanarischer Wein seinen Preis wert?</dd>
-            </dl>
+<dl>
+<dt>[00:12:54]</dt>
+<dd>Ist kanarischer Wein seinen Preis wert?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:21:10]</dt>
-            <dd>Was macht kanarischen Wein aus?</dd>
-            </dl>
+<dl>
+<dt>[00:21:10]</dt>
+<dd>Was macht kanarischen Wein aus?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:28:09]</dt>
-            <dd>Joven, Crianza, Reserve, Gran Reserve</dd>
-            </dl>
+<dl>
+<dt>[00:28:09]</dt>
+<dd>Joven, Crianza, Reserve, Gran Reserve</dd>
+</dl>
 
-            <dl>
-            <dt>[00:31:30]</dt>
-            <dd>Wir driften zum Lago Verde auf Lanzarote ab</dd>
-            </dl>
+<dl>
+<dt>[00:31:30]</dt>
+<dd>Wir driften zum Lago Verde auf Lanzarote ab</dd>
+</dl>
 
-            <dl>
-            <dt>[00:35:09]</dt>
-            <dd>Wir trinken Pagos de Reverón!</dd>
-            </dl>
+<dl>
+<dt>[00:35:09]</dt>
+<dd>Wir trinken Pagos de Reverón!</dd>
+</dl>
 
-            <dl>
-            <dt>[00:44:44]</dt>
-            <dd>Urlaubsgefühle: Im Urlaub hat das noch geschmeckt!</dd>
-            </dl>
+<dl>
+<dt>[00:44:44]</dt>
+<dd>Urlaubsgefühle: Im Urlaub hat das noch geschmeckt!</dd>
+</dl>
 
-            <dl>
-            <dt>[00:47:23]</dt>
-            <dd>Was macht so ein Holzfass mit Wein? Wieso wird er dadurch länger haltbar? Oder wird er das überhaupt?</dd>
-            </dl>
+<dl>
+<dt>[00:47:23]</dt>
+<dd>Was macht so ein Holzfass mit Wein? Wieso wird er dadurch länger haltbar? Oder wird er das überhaupt?</dd>
+</dl>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3" length="36834739" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3" length="36834739" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_5.mp3
-        </guid>
-        <itunes:duration>01:01:16</itunes:duration>
-        <itunes:subtitle>Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift) aus Teneriffa[...]
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>01:01:16</itunes:duration>
+            <itunes:subtitle>Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift) aus Teneriffa[...]
+            </itunes:subtitle>
+            <itunes:summary>
             Nostalgie pur! In dieser Episode schwelgen wir in Erinnerung an die Kanaren. Wir haben einen Rubicon Rosado (Roséwein aus der Listan Negro Traube) aus Lanzarote und einen Pagos de Reverón (Rotwein, Tinto Joven - also einjährig gereift, ein sog. Jungwein) aus Teneriffa. Wir erzählen, wie wir zu diesen beiden Weinen gekommen sind, was die Titel Joven, Crianza, Reserve und Gran Reserve bedeuten. Was macht die kanarischen Weine besonders und wie schaffen sie es auf den kargen Landschaften aus Lanzarote überhaupt Weinreben anzubauen? Und warum mag Ben den Rotwein nicht?
 
             Links:
@@ -407,90 +407,93 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             kanaren, vinos, kanarischerwein, ausbaufähig, podcast, weinprobe, winetasting
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-      <item>
-        <title>#4 Prickelnder Start in das neue Jahr</title>
-        <number>4</number>
-        <link>
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#4 Prickelnder Start in das neue Jahr</title>
+            <number>4</number>
+            <countries>
+                <country>Frankreich</country>
+            </countries>
+            <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_4.mp3
-        </link>
-        <pubDate>Sun, 13 Jan 2019 03:00:00 PDT</pubDate>
-        <description>
-            <![CDATA[Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? [&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? Wir reden über günstige Alternativen, wie den Tilman Secco, einem Perlwein mit zugesetzter Kohlensäure. Außerdem testen wir einen Szürkebarát (ungarischen Grauburgunder) als Basis für ein Käsefondue.</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:11]</dt>
-            <dd>Warum gibt es diesmal Champagner? Wie oft gönnen wir uns denn so einen Schampus?</dd>
-            </dl>
+            </link>
+            <pubDate>Sun, 13 Jan 2019 03:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? [&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? Wir reden über günstige Alternativen, wie den Tilman Secco, einem Perlwein mit zugesetzter Kohlensäure. Außerdem testen wir einen Szürkebarát (ungarischen Grauburgunder) als Basis für ein Käsefondue.</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:11]</dt>
+<dd>Warum gibt es diesmal Champagner? Wie oft gönnen wir uns denn so einen Schampus?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:02:50]</dt>
-            <dd>Heute reden wir über Perl- und Schaumweine und deren Herstellungsverfahren</dd>
-            </dl>
+<dl>
+<dt>[00:02:50]</dt>
+<dd>Heute reden wir über Perl- und Schaumweine und deren Herstellungsverfahren</dd>
+</dl>
 
-            <dl>
-            <dt>[00:05:58]</dt>
-            <dd>Was ist der Unterschied zwischen Perl- und Schaumweinen?</dd>
-            </dl>
+<dl>
+<dt>[00:05:58]</dt>
+<dd>Was ist der Unterschied zwischen Perl- und Schaumweinen?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:07:12]</dt>
-            <dd>Wo ist diese Champagne und warum wird dort so viel Schaumwein hergestellt?</dd>
-            </dl>
+<dl>
+<dt>[00:07:12]</dt>
+<dd>Wo ist diese Champagne und warum wird dort so viel Schaumwein hergestellt?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:12:20]</dt>
-            <dd>Vanessa erklärt, wie Schaumwein hergestellt wird.</dd>
-            </dl>
+<dl>
+<dt>[00:12:20]</dt>
+<dd>Vanessa erklärt, wie Schaumwein hergestellt wird.</dd>
+</dl>
 
-            <dl>
-            <dt>[00:16:30]</dt>
-            <dd>Was sagt Amazon zu dem Champagner?</dd>
-            </dl>
+<dl>
+<dt>[00:16:30]</dt>
+<dd>Was sagt Amazon zu dem Champagner?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:23:07]</dt>
-            <dd>Rezeptur des Champagners</dd>
-            </dl>
+<dl>
+<dt>[00:23:07]</dt>
+<dd>Rezeptur des Champagners</dd>
+</dl>
 
-            <dl>
-            <dt>[00:29:21]</dt>
-            <dd>Wie entstand prickelnder Schaumwein aus dem üblichen Stillwein?</dd>
-            </dl>
+<dl>
+<dt>[00:29:21]</dt>
+<dd>Wie entstand prickelnder Schaumwein aus dem üblichen Stillwein?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:33:30]</dt>
-            <dd>Mit welchen Trauben prickelts außerhalb der Champagne? Rest Frankreich, Deutschland, Italien, Kalifornien etc.</dd>
-            </dl>
+<dl>
+<dt>[00:33:30]</dt>
+<dd>Mit welchen Trauben prickelts außerhalb der Champagne? Rest Frankreich, Deutschland, Italien, Kalifornien etc.</dd>
+</dl>
 
-            <dl>
-            <dt>[00:36:22]</dt>
-            <dd>Was hat es dann mit Prosecco auf sich?</dd>
-            </dl>
+<dl>
+<dt>[00:36:22]</dt>
+<dd>Was hat es dann mit Prosecco auf sich?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:41:20]</dt>
-            <dd>Aperitiv oder Essensbegleiter?</dd>
-            </dl>
+<dl>
+<dt>[00:41:20]</dt>
+<dd>Aperitiv oder Essensbegleiter?</dd>
+</dl>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_4.mp3" length="29042918" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_4.mp3" length="29042918" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_4.mp3
-        </guid>
-        <itunes:duration>48:23</itunes:duration>
-        <itunes:subtitle>Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? [...]
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>48:23</itunes:duration>
+            <itunes:subtitle>Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? [...]
+            </itunes:subtitle>
+            <itunes:summary>
             Im neuen Jahr prickelts! Ben und Vanessa trinken im Rahmen des Ausbaufähig Podcasts gemeinsam ihren ersten Champagner - einen Moet et Chandon. Doch wie wird Schaumwein eigentlich hergestellt, was macht den Champagner besonders und was ist dann Perlwein? Wir reden über günstige Alternativen, wie den Tilman Secco, einem Perlwein mit zugesetzter Kohlensäure. Außerdem testen wir einen Szürkebarát (ungarischen Grauburgunder) als Basis für ein Käsefondue.
 
             Show Notes
@@ -534,95 +537,99 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             champagner, moet et chandon, schampus, ausbaufähig, podcast, weinprobe, winetasting
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-      <item>
-        <title>#3 Chardonnay vs. Chardonnay</title>
-        <number>3</number>
-        <link>
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#3 Chardonnay vs. Chardonnay</title>
+            <number>3</number>
+            <countries>
+                <country>Deutschland</country>
+                <country>Frankreich</country>
+            </countries>
+            <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3
-        </link>
-        <pubDate>Sun, 30 Dec 2018 05:09:00 PDT</pubDate>
-        <description>
-            <![CDATA[Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der [&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:14]</dt>
-            <dd>Nachtrag Episode 2</dd>
-            </dl>
+            </link>
+            <pubDate>Sun, 30 Dec 2018 05:09:00 PDT</pubDate>
+            <description>
+                <![CDATA[Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der [&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:14]</dt>
+<dd>Nachtrag Episode 2</dd>
+</dl>
 
-            <dl>
-            <dt>[00:03:00]</dt>
-            <dd>Vorstellung der heutigen Weine</dd>
-            </dl>
+<dl>
+<dt>[00:03:00]</dt>
+<dd>Vorstellung der heutigen Weine</dd>
+</dl>
 
-            <dl>
-            <dt>[00:05:52]</dt>
-            <dd>Verköstigung 1. Wein: Chenin Chardonnay</dd>
-            </dl>
+<dl>
+<dt>[00:05:52]</dt>
+<dd>Verköstigung 1. Wein: Chenin Chardonnay</dd>
+</dl>
 
-            <dl>
-            <dt>[00:07:32]</dt>
-            <dd>Traube Chenin Blanc</dd>
-            </dl>
+<dl>
+<dt>[00:07:32]</dt>
+<dd>Traube Chenin Blanc</dd>
+</dl>
 
-            <dl>
-            <dt>[00:14:10]</dt>
-            <dd>Vanessas Tollwood Erlebnis</dd>
-            </dl>
+<dl>
+<dt>[00:14:10]</dt>
+<dd>Vanessas Tollwood Erlebnis</dd>
+</dl>
 
-            <dl>
-            <dt>[00:19:30]</dt>
-            <dd>Detaillierte Vorstellung Zweiter Wein (Chardonnay Auslese)</dd>
-            </dl>
+<dl>
+<dt>[00:19:30]</dt>
+<dd>Detaillierte Vorstellung Zweiter Wein (Chardonnay Auslese)</dd>
+</dl>
 
-            <dl>
-            <dt>[00:21:36]</dt>
-            <dd>Farbvergleich beider Weißweine</dd>
-            </dl>
+<dl>
+<dt>[00:21:36]</dt>
+<dd>Farbvergleich beider Weißweine</dd>
+</dl>
 
-            <dl>
-            <dt>[00:26:00]</dt>
-            <dd>Herkunft unseres Britzingen Weins</dd>
-            </dl>
+<dl>
+<dt>[00:26:00]</dt>
+<dd>Herkunft unseres Britzingen Weins</dd>
+</dl>
 
-            <dl>
-            <dt>[00:33:30]</dt>
-            <dd>Wie warm braucht es der Chardonnay?</dd>
-            </dl>
+<dl>
+<dt>[00:33:30]</dt>
+<dd>Wie warm braucht es der Chardonnay?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:43:02]</dt>
-            <dd>Und welcher Chardonnay ist besser?</dd>
-            </dl>
+<dl>
+<dt>[00:43:02]</dt>
+<dd>Und welcher Chardonnay ist besser?</dd>
+</dl>
 
-            <dl>
-            <dt>[00:48:01]</dt>
-            <dd>Es prickelt! Champagner!</dd>
-            </dl>
+<dl>
+<dt>[00:48:01]</dt>
+<dd>Es prickelt! Champagner!</dd>
+</dl>
 
-            <dl>
-            <dt>[00:50:03]</dt>
-            <dd>Welche Trauben sind in Sekt?</dd>
-            </dl>
+<dl>
+<dt>[00:50:03]</dt>
+<dd>Welche Trauben sind in Sekt?</dd>
+</dl>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3" length="40076747" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3" length="40076747" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3
-        </guid>
-        <itunes:duration>55:40</itunes:duration>
-        <itunes:subtitle>Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der [...]
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>55:40</itunes:duration>
+            <itunes:subtitle>Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der [...]
+            </itunes:subtitle>
+            <itunes:summary>
             Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.
 
             Show Notes
@@ -666,68 +673,71 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             chardonnay, chenin, wine tasting, weinverkostung, ausbaufaehig, rotwein, glühwein, sangria, robinson, campbell, neuseeland, korken, schraubverschluss, trinktabelle
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-      <item>
-        <title>#2 Syrah in der Glühweinzeit</title>
-        <number>2</number>
-        <link>
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#2 Syrah in der Glühweinzeit</title>
+            <number>2</number>
+            <countries>
+                <country>Neuseeland</country>
+            </countries>
+            <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_2.mp3
-        </link>
-        <pubDate>Sun, 02 Dec 2018 23:02:00 PDT</pubDate>
-        <description>
-            <![CDATA[Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangr [&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:12] Was trinken wir heute?</dt>
-            <dd>Ben erklärt,wie wir zu dem heutigen Wein gekommen sind.</dd>
-            </dl>
-            <dl>
-            <dt>[00:04:50] Lasst uns trinken!</dt>
-            <dd>Schon wird er verkostet, der: Blank Canvas Syrah 2015 vom Gebiet Gimblett Gravels in Hawkes Bay.</dd>
-            </dl>
-            <dl>
-            <dt>[00:11:04] Von welchen Trauben stammt der Shiraz ab</dt>
-            <dd>Die Französisch-Experten versuchen die Weinsorten auszusprechen, aus denen der Shiraz gekreut wurde: Dureza und Mondeuse Blanche</dd>
-            </dl>
-            <dl>
-            <dt>[00:13:03] Im Restaurant?</dt>
-            <dd>Was bestellen wir blind im Restaurant, wenn wir vor der Weinkarte sitzen?</dd>
-            </dl>
-            <dl>
-            <dt>[00:14:00] Korken oder Weinverschluss</dt>
-            <dd>Ausgiebige Diskussion über den Verschluss von Weinflaschen</dd>
-            </dl>
-            <dl>
-            <dt>[00:23:56] Verletzungen und Trinktabelle</dt>
-            <dd>Vanessa erzählt, wie der Wein geöffnet wurde, und wie sie dadurch glücklicherweise einen Flyer mit einer Trinktabelle fand.</dd>
-            </dl>
-            <dl>
-            <dt>[00:39:09] Unterschiede zu anderen Shiraz/Syrah</dt>
-            <dd>Unterscheidet sich dieser Shiraz von anderen?</dd>
-            </dl>
-            <dl>
-            <dt>[00:46:30] Glühwein und Sangria</dt>
-            <dd>Wie stehen wir denn zu dem Thema Glühwein und Sangria?</dd>
-            </dl>
+            </link>
+            <pubDate>Sun, 02 Dec 2018 23:02:00 PDT</pubDate>
+            <description>
+                <![CDATA[Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangr [&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:12] Was trinken wir heute?</dt>
+<dd>Ben erklärt,wie wir zu dem heutigen Wein gekommen sind.</dd>
+</dl>
+<dl>
+<dt>[00:04:50] Lasst uns trinken!</dt>
+<dd>Schon wird er verkostet, der: Blank Canvas Syrah 2015 vom Gebiet Gimblett Gravels in Hawkes Bay.</dd>
+</dl>
+<dl>
+<dt>[00:11:04] Von welchen Trauben stammt der Shiraz ab</dt>
+<dd>Die Französisch-Experten versuchen die Weinsorten auszusprechen, aus denen der Shiraz gekreut wurde: Dureza und Mondeuse Blanche</dd>
+</dl>
+<dl>
+<dt>[00:13:03] Im Restaurant?</dt>
+<dd>Was bestellen wir blind im Restaurant, wenn wir vor der Weinkarte sitzen?</dd>
+</dl>
+<dl>
+<dt>[00:14:00] Korken oder Weinverschluss</dt>
+<dd>Ausgiebige Diskussion über den Verschluss von Weinflaschen</dd>
+</dl>
+<dl>
+<dt>[00:23:56] Verletzungen und Trinktabelle</dt>
+<dd>Vanessa erzählt, wie der Wein geöffnet wurde, und wie sie dadurch glücklicherweise einen Flyer mit einer Trinktabelle fand.</dd>
+</dl>
+<dl>
+<dt>[00:39:09] Unterschiede zu anderen Shiraz/Syrah</dt>
+<dd>Unterscheidet sich dieser Shiraz von anderen?</dd>
+</dl>
+<dl>
+<dt>[00:46:30] Glühwein und Sangria</dt>
+<dd>Wie stehen wir denn zu dem Thema Glühwein und Sangria?</dd>
+</dl>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_2.mp3" length="39211954" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_2.mp3" length="39211954" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_2.mp3
-        </guid>
-        <itunes:duration>00:54:09</itunes:duration>
-        <itunes:subtitle>Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sang [...]
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>00:54:09</itunes:duration>
+            <itunes:subtitle>Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sang [...]
+            </itunes:subtitle>
+            <itunes:summary>
             Neuseeländischer Shiraz, vermutlich der erste, der mit Grünem Veltliner vergoren wurde. Ausgiebig reden wir über diesen hochpreisigen, aber auch hochprämierten Rotwein (93/100 Campbell, 18/20 Robinson). Außerdem reden wir über Glühwein und Sangria, da zwei Tage nach Aufnahme der Folge die ersten Christkindlmärkte eröffneten.
 
             Show Notes
@@ -763,205 +773,75 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             shiraz, syrah, wine tasting, weinverkostung, ausbaufaehig, rotwein, glühwein, sangria, robinson, campbell, neuseeland, korken, schraubverschluss, trinktabelle
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-      <item>
-        <title>#3 Chardonnay vs. Chardonnay</title>
-        <number>3</number>
-        <link>
-            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3
-        </link>
-        <pubDate>Sun, 30 Dec 2018 05:09:00 PDT</pubDate>
-        <description>
-            <![CDATA[Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der [&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:14]</dt>
-            <dd>Nachtrag Episode 2</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:03:00]</dt>
-            <dd>Vorstellung der heutigen Weine</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:05:52]</dt>
-            <dd>Verköstigung 1. Wein: Chenin Chardonnay</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:07:32]</dt>
-            <dd>Traube Chenin Blanc</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:14:10]</dt>
-            <dd>Vanessas Tollwood Erlebnis</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:19:30]</dt>
-            <dd>Detaillierte Vorstellung Zweiter Wein (Chardonnay Auslese)</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:21:36]</dt>
-            <dd>Farbvergleich beider Weißweine</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:26:00]</dt>
-            <dd>Herkunft unseres Britzingen Weins</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:33:30]</dt>
-            <dd>Wie warm braucht es der Chardonnay?</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:43:02]</dt>
-            <dd>Und welcher Chardonnay ist besser?</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:48:01]</dt>
-            <dd>Es prickelt! Champagner!</dd>
-            </dl>
-
-            <dl>
-            <dt>[00:50:03]</dt>
-            <dd>Welche Trauben sind in Sekt?</dd>
-            </dl>
-            ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3" length="40076747" type="audio/mpeg"/>
-        <guid>
-            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_3.mp3
-        </guid>
-        <itunes:duration>55:40</itunes:duration>
-        <itunes:subtitle>Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der [...]
-        </itunes:subtitle>
-        <itunes:summary>
-            Chardonnay vs. Chardonnay bzw. säurefrisch vs. Auslese ist das Motto dieser Episode. Wir verköstigen einen Chenin Chardonnay 2017 des Hauses Doamine Du Tariquet aus Frankreich, recht günstig (6,50 €) und eine Chardonnay Auslese 2005 der Winzergemeinschaft Britzingen (ca. 15€ für 0,5l) aus Baden. Das Ergebnis überraschte uns selbst! (Spoiler: Nein, die Auslese war natürlich nicht schlecht.) Außerdem reden wir kurz über die Trauben von Champagner und Sekt, schweifen zum Tollwood ab und finden heraus, dass wir die Feuerzangenbowle schauen müssen.
-
-            Show Notes
-            [00:00:14]
-            Nachtrag Episode 2
-
-            [00:03:00]
-            Vorstellung der heutigen Weine
-
-            [00:05:52]
-            Verköstigung 1. Wein: Chenin Chardonnay
-
-            [00:07:32]
-            Traube Chenin Blanc
-
-            [00:14:10]
-            Vanessas Tollwood Erlebnis
-
-            [00:19:30]
-            Detaillierte Vorstellung Zweiter Wein (Chardonnay Auslese)
-
-            [00:21:36]
-            Farbvergleich beider Weißweine
-
-            [00:26:00]
-            Herkunft unseres Britzingen Weins
-
-            [00:33:30]
-            Wie warm braucht es der Chardonnay?
-
-            [00:43:02]
-            Und welcher Chardonnay ist besser?
-
-            [00:48:01]
-            Es prickelt! Champagner!
-
-            [00:50:03]
-            Welche Trauben sind in Sekt?
-
-
-
-            Homepage: https://www.ausbaufaehig-podcast.de
-            Mail: boehner.vanessa@gmail.com
-            Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
-            chardonnay, chenin, wine tasting, weinverkostung, ausbaufaehig, rotwein, glühwein, sangria, robinson, campbell, neuseeland, korken, schraubverschluss, trinktabelle
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-      <item>
-        <title>#1 Es rieselt von der Mosel</title>
-        <number>1</number>
-        <link>
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#1 Es rieselt von der Mosel</title>
+            <number>1</number>
+            <countries>
+                <country>Deutschland</country>
+            </countries>
+            <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
-        </link>
-        <pubDate>Wed, 21 Nov 2018 09:01:00 PDT</pubDate>
-        <description>
-            <![CDATA[Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [&#8230;]]]>
-        </description>
-        <content:encoded>
-            <![CDATA[<p>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"</p>
-            <h3>Show Notes</h3>
-            <dl>
-            <dt>[00:00:54] Was trinken wir heute?</dt>
-            <dd>Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.</dd>
-            </dl>
-            <dl>
-            <dt>[00:05:40] Erster Wein!</dt>
-            <dd>"2016 Riesling Erdener Tröpfchen trocken" wird getrunken.</dd>
-            </dl>
-            <dl>
-            <dt>[00:08:58] Und was kostets?</dt>
-            <dd>Preise der heutigen Weine</dd>
-            </dl>
-            <dl>
-            <dt>[00:09:22] Wie sind wir dazu gekommen?</dt>
-            <dd>Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.</dd>
-            </dl>
-            <dl>
-            <dt>[00:19:21] Die Rebsorte Riesling</dt>
-            <dd>Welche Charakteristiken sind eigentlich typisch für einen Riesling?</dd>
-            </dl>
-            <dl>
-            <dt>[00:25:30] Zweiter Wein!</dt>
-            <dd>"2016 Riesling Wehlener Klosterberg trocken" wird getrunken.</dd>
-            </dl>
-            <dl>
-            <dt>[00:30:20] Kabinett</dt>
-            <dd>Was sind eigentlich Kabinettweine und wofür stehen Oechsle?</dd>
-            </dl>
-            <dl>
-            <dt>[[00:37:44] Parker</dt>
-            <dd>Ben erzählt uns was die Parker-Skala ist</dd>
-            </dl>
-            <dl>
-            <dt>[00:52:27] Anreicherung</dt>
-            <dd>Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".</dd>
-            </dl>
+            </link>
+            <pubDate>Wed, 21 Nov 2018 09:01:00 PDT</pubDate>
+            <description>
+                <![CDATA[Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken"</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:54] Was trinken wir heute?</dt>
+<dd>Ben erklärt, wer Markus Molitor ist und wo dessen Wein herkommt.</dd>
+</dl>
+<dl>
+<dt>[00:05:40] Erster Wein!</dt>
+<dd>"2016 Riesling Erdener Tröpfchen trocken" wird getrunken.</dd>
+</dl>
+<dl>
+<dt>[00:08:58] Und was kostets?</dt>
+<dd>Preise der heutigen Weine</dd>
+</dl>
+<dl>
+<dt>[00:09:22] Wie sind wir dazu gekommen?</dt>
+<dd>Vanessa erzählt, wie sie generell zum Weintrinken gekommen sind und wieso es eine Verbindung zu Markus Molitor gibt.</dd>
+</dl>
+<dl>
+<dt>[00:19:21] Die Rebsorte Riesling</dt>
+<dd>Welche Charakteristiken sind eigentlich typisch für einen Riesling?</dd>
+</dl>
+<dl>
+<dt>[00:25:30] Zweiter Wein!</dt>
+<dd>"2016 Riesling Wehlener Klosterberg trocken" wird getrunken.</dd>
+</dl>
+<dl>
+<dt>[00:30:20] Kabinett</dt>
+<dd>Was sind eigentlich Kabinettweine und wofür stehen Oechsle?</dd>
+</dl>
+<dl>
+<dt>[[00:37:44] Parker</dt>
+<dd>Ben erzählt uns was die Parker-Skala ist</dd>
+</dl>
+<dl>
+<dt>[00:52:27] Anreicherung</dt>
+<dd>Vanessa und Ben finden heraus, was es bedeutet, wenn ein Wein "angereichert wird".</dd>
+</dl>
             ]]>
-        </content:encoded>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3" length="43672008" type="audio/mpeg"/>
-        <guid>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3" length="43672008" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_1.mp3
-        </guid>
-        <itunes:duration>01:00:33</itunes:duration>
-        <itunes:subtitle>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [...]
-        </itunes:subtitle>
-        <itunes:summary>
+            </guid>
+            <itunes:duration>01:00:33</itunes:duration>
+            <itunes:subtitle>Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling [...]
+            </itunes:subtitle>
+            <itunes:summary>
             Zum Auftakt werden 2 Rieslinge von Markus Molitor miteinander verglichen. Wir lernen was Kabinett bedeutet und Oechsle sind. Außerdem reden wir über die Parker-Skala. Weine: "2016 Riesling Erdener Treppchen Kabinett trocken" und "2016 Riesling Wehlener Klosterberg trocken" 
             
             Show Notes
@@ -997,39 +877,39 @@
             Homepage: https://www.ausbaufaehig-podcast.de
             Mail: boehner.vanessa@gmail.com
             Twitter: @ausbaufahig
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             wein, riesling, mosel, kabinett, oechsle, trocken, weisswein, weinverkostung, weintasting, winetasting
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-      <item>
-        <title>#0 Ausbaufähig sagt Hallo</title>
-        <number>0</number>
-        <link>
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>#0 Ausbaufähig sagt Hallo</title>
+            <number>0</number>
+            <link>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3
-        </link>
-        <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
-        <description>
-            <![CDATA[Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.]]>
-        </description>
-        <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3" length="2087113" type="audio/mpeg"/>
-        <guid>
+            </link>
+            <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.]]>
+            </description>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3" length="2087113" type="audio/mpeg"/>
+            <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_0.mp3
-        </guid>
-        <itunes:duration>02:54</itunes:duration>
-        <itunes:subtitle>
+            </guid>
+            <itunes:duration>02:54</itunes:duration>
+            <itunes:subtitle>
             Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.
-        </itunes:subtitle>
-        <itunes:summary>
+            </itunes:subtitle>
+            <itunes:summary>
             Ben und Vanessa stellen Ausbaufähig, einen Podcast über Wein, vor.
-        </itunes:summary>
-        <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
-        <itunes:keywords>
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
             wein, weisswein, rotwein, trinken, vino, weinverkostung, weintasting, winetasting
-        </itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-  </channel>
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
 </rss>
