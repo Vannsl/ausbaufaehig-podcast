@@ -17,6 +17,9 @@
       </div>
       <div v-show="show" v-html="showNotes"/>
     </template>
+    <div class="comments">
+      <vue-disqus shortname="https-www-ausbaufaehig-podcast-de" :identifier="episode.number" url="https://www.ausbaufaehig-podcast.de"></vue-disqus>
+    </div>
   </div>
 </template>
 

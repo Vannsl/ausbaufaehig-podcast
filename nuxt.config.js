@@ -65,6 +65,9 @@ export default {
   purgeCSS: {
     mode: "postcss"
   },
+  plugins: [
+    './plugins/disqus.js',
+  ],
   build: {
     extend(config, { isDev, isClient }) {
       module: {
@@ -75,7 +78,7 @@ export default {
     },
     postcss: {
       plugins: {
-        tailwindcss: "./tailwind.js",
+        tailwindcss: "./plugins/tailwind.js",
         autoprefixer: {}
       }
     }
