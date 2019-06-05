@@ -40,6 +40,95 @@
         <itunes:category text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
+            <title>#10 Fränkische Scheurebe</title>
+            <number>10</number>
+            <countries type="array">
+                <value>Deutschland</value>
+            </countries>
+            <wines type="array">
+                <value>Weingut Emmerich, Scheurebe 2016, trocken, Julius-Echter-Berg</value>
+            </wines>
+            <glasses>2</glasses>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_10.mp3</link>
+            <pubDate>Wed, 05 Jun 2019 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Ben und Vanessa trinken zum Beginn des Hochsommers eine Scheurebe - einen fränkischen Schatz, den man unbedingt mal gekostet haben sollte.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Ben und Vanessa trinken zum Beginn des Hochsommers eine Scheurebe - einen fränkischen Schatz, den man unbedingt mal gekostet haben sollte.
+            </p><p>Wein: Weingut Emmerich, Scheurebe 2016, trocken, Julius-Echter-Berg</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:02:43]</dt>
+<dd>Charakteristiken des Weines</dd>
+</dl>
+
+<dl>
+<dt>[00:05:03]</dt>
+<dd>Die Traube Scheurebe</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:08:22]</dt>
+<dd>Schöppelweine</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:10:20]</dt>
+<dd>Julius-Echter-Berg</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:11:44]</dt>
+<dd>Weingut Emmerich</dd>
+</dl></dd>
+</dl>
+<p>Homepage: https://www.ausbaufaehig-podcast.de<br>
+Mail: boehner.vanessa@gmail.com<br>
+Twitter: @ausbaufahig</p>
+            ]]>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_10.mp3" length="10391209" type="audio/mpeg"/>
+            <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_10.mp3
+            </guid>
+            <itunes:duration>00:17:18</itunes:duration>
+            <itunes:subtitle>Ben und Vanessa trinken zum Beginn des Hochsommers eine Scheurebe - einen fränkischen Schatz, den man unbedingt mal gekostet haben sollte.</itunes:subtitle>
+            <itunes:summary>
+            Ben und Vanessa trinken zum Beginn des Hochsommers eine Scheurebe - einen fränkischen Schatz, den man unbedingt mal gekostet haben sollte.
+
+            Wein: Weingut Emmerich, Scheurebe 2016, trocken, Julius-Echter-Berg
+
+            Show Notes
+            [00:02:43]
+            Charakteristiken des Weines
+            
+            [00:05:03]
+            Die Traube Scheurebe
+            
+            [00:08:22]
+            Schöppelweine
+            
+            [00:10:20]
+            Julius-Echter-Berg
+            
+            [00:11:44]
+            Weingut Emmerich
+            
+            Homepage: https://www.ausbaufaehig-podcast.de
+            Mail: boehner.vanessa@gmail.com
+            Twitter: @ausbaufahig
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
+            weinprobe, franken, unterfranken, ausbaufähig, ausbaufaehig, ausbaufahig, emmerich, scheurebe, winetasting, tasting, wine, weißwein, sommerwein
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
             <title>#9 Der fette rote Elefant</title>
             <number>9</number>
             <countries type="array">
@@ -144,7 +233,7 @@ Mail: boehner.vanessa@gmail.com<br>
 Twitter: @ausbaufahig</p>
             ]]>
             </content:encoded>
-            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_9.mp3" length="26624221 " type="audio/mpeg"/>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_9.mp3" length="26624221" type="audio/mpeg"/>
             <guid>
             https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_9.mp3
             </guid>
