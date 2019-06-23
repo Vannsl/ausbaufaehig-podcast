@@ -24,8 +24,10 @@ import { feed } from "~/assets/feed";
 import Bar from "~/components/Bar.vue";
 import Episode from "~/components/Episode.vue";
 import FooterBar from "~/components/Footer.vue";
+import lightModeMixin from "~/mixins/light-mode";
 
 export default {
+  name: 'Episodes',
   components: {
     Bar,
     Episode,
@@ -33,6 +35,7 @@ export default {
   },
   head() {
     return {
+      title: `Ausbaufähig Episode #${this.id}`,
       meta: [
         {
           hid: "description",
@@ -48,6 +51,7 @@ export default {
       ]
     };
   },
+  mixins: [lightModeMixin],
   validate ({ params }) {
     return /^\d+$/.test(params.id);
   },

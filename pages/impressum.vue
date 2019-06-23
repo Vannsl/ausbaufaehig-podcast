@@ -52,11 +52,13 @@
 import Bar from "~/components/Bar.vue";
 import Hero from "~/components/Hero.vue";
 import FooterBar from "~/components/Footer.vue";
+import lightModeMixin from "~/mixins/light-mode";
 
 export default {
   components: {
     Bar,
     FooterBar
-  }
+  },
+  mixins: [lightModeMixin]
 };
 </script>

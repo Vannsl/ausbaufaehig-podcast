@@ -14,6 +14,7 @@
 import Bar from "~/components/Bar.vue";
 import Episodes from "~/components/Episodes.vue";
 import FooterBar from "~/components/Footer.vue";
+import lightModeMixin from "~/mixins/light-mode";
 
 export default {
   components: {
@@ -21,6 +22,7 @@ export default {
     Episodes,
     FooterBar
   },
+  mixins: [lightModeMixin],
   head() {
     return {
       meta: [

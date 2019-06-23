@@ -22,6 +22,7 @@ import About from "~/components/About.vue";
 import Episodes from "~/components/Episodes.vue";
 import Counter from "~/components/Counter.vue";
 import FooterBar from "~/components/Footer.vue";
+import lightModeMixin from "~/mixins/light-mode";
 
 export default {
   components: {
@@ -32,6 +33,7 @@ export default {
     FooterBar,
     Counter
   },
+  mixins: [lightModeMixin],
   head() {
     return {
       meta: [
@@ -51,7 +53,7 @@ export default {
   },
   data() {
     return {
-      classList: "container mx-auto my-16 p-4"
+      classList: "container mx-auto my-16 p-4",
     };
   }
 };
