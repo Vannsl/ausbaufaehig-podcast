@@ -1,5 +1,5 @@
 export default {
-  mode: "spa",
+  mode: "universal",
   generate: {
     routes: [
       '/episodes/0',
