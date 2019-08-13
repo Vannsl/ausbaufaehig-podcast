@@ -40,6 +40,124 @@
         <itunes:category text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
+            <title>#11 Winter is coming - Es zweigelt!</title>
+            <number>11</number>
+            <countries type="array">
+                <value>Schweiz</value>
+            </countries>
+            <wines type="array">
+                <value>Weingut WeinWurms, Zweigelt Reserve 2012, trocken</value>
+            </wines>
+            <glasses>2</glasses>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_11.mp3</link>
+            <pubDate>Tue, 13 Aug 2019 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Brace yourself - winter is coming! ;) Haben Ben und Vanessa heute einen Kandidaten für Weihnachten gefunden?]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Brace yourself - winter is coming! ;) Haben Ben und Vanessa heute einen Kandidaten für Weihnachten gefunden?
+</p><p>Wein: Weingut WeinWurms, Zweigelt Reserve 2012, trocken</p>
+            <p>Nachfolger: http://www.weinwurms.at/hommage-zweigelt.html</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:11]</dt>
+<dd>Vorstellung des Weines: Zweigelt von Weinwurms</dd>
+</dl>
+
+<dl>
+<dt>[00:05:10]</dt>
+<dd>Pannonisches Klima</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:07:13]</dt>
+<dd>Verkostung und Bewertung</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:09:10]</dt>
+<dd>Die Traube Zweigelt</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:11:20]</dt>
+<dd>Weingut WeinWurms</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:18:15]</dt>
+<dd>Ausflug zum Jaques Weindepot</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:24:50]</dt>
+<dd>Zurück zum Zweigelt - Holz oder nicht Holz?</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:32:41]</dt>
+<dd>Spontangärung</dd>
+</dl></dd>
+</dl>
+<p>Homepage: https://www.ausbaufaehig-podcast.de<br>
+Mail: boehner.vanessa@gmail.com<br>
+Twitter: @ausbaufahig</p>
+            ]]>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_11.mp3" length="22566081" type="audio/mpeg"/>
+            <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_11.mp3
+            </guid>
+            <itunes:duration>00:37:29</itunes:duration>
+            <itunes:subtitle>Brace yourself - winter is coming! ;) Haben Ben und Vanessa heute einen Kandidaten für Weihnachten gefunden?</itunes:subtitle>
+            <itunes:summary>
+            Brace yourself - winter is coming! ;) Haben Ben und Vanessa heute einen Kandidaten für Weihnachten gefunden?
+
+            Wein: Weingut WeinWurms, Zweigelt Reserve 2012, trocken, Schweiz
+            Nachfolger: http://www.weinwurms.at/hommage-zweigelt.html
+
+            Show Notes
+            [00:00:11]
+            Vorstellung des Weines: Zweigelt von Weinwurms
+            
+            [00:05:10]
+            Pannonisches Klima
+            
+            [00:07:13]
+            Verkostung und Bewertung
+            
+            [00:09:10]
+            Die Traube Zweigelt
+            
+            [00:11:20]
+            Weingut WeinWurms
+            
+            [00:18:15]
+            Ausflug zum Jaques Weindepot
+            
+            [00:24:50]
+            Zurück zum Zweigelt - Holz oder nicht Holz?
+            
+            [00:32:41]
+            Spontangärung
+            
+            Homepage: https://www.ausbaufaehig-podcast.de
+            Mail: boehner.vanessa@gmail.com
+            Twitter: @ausbaufahig
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
+            weinprobe, schweiz, zweigelt, ausbaufähig, ausbaufaehig, ausbaufahig, weinwurms, winetasting, tasting, wine, rotwein, weihnachten
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
             <title>#10 Fränkische Scheurebe</title>
             <number>10</number>
             <countries type="array">

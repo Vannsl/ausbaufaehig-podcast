@@ -1,5 +1,21 @@
 export default {
   mode: "spa",
+  generate: {
+    routes: [
+      '/episodes/0',
+      '/episodes/1',
+      '/episodes/2',
+      '/episodes/3',
+      '/episodes/4',
+      '/episodes/5',
+      '/episodes/6',
+      '/episodes/7',
+      '/episodes/8',
+      '/episodes/9',
+      '/episodes/10',
+      '/episodes/11'
+    ]
+  },
   head: {
     htmlAttrs: { lang: "de" },
     title: "Ausbaufähig - der Wein-Podcast",
