@@ -40,6 +40,153 @@
         <itunes:category text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
+            <title>#12 Der gelbe Spanier vom Rewe</title>
+            <number>12</number>
+            <countries type="array">
+                <value>Spanien</value>
+            </countries>
+            <wines type="array">
+                <value>Campo Viejo Rioja Tempranillo 2017</value>
+            </wines>
+            <glasses>2</glasses>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_12.mp3</link>
+            <pubDate>Fri, 23 Aug 2019 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Es wird Zeit für einen völlig random Wein aus dem Supermarkt - Massenwein aus Rioja! Völlig blind folgt Vanessa der Empfehlung eines Arbeitskollegen: den gelben Spanier Rioja vom Rewe.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Es wird Zeit für einen völlig random Wein aus dem Supermarkt - Massenwein aus Rioja! Völlig blind folgt Vanessa der Empfehlung eines Arbeitskollegen: den gelben Spanier Rioja vom Rewe.
+</p><p>Wein: Campo Viejo Rioja</p>
+<p>Rebsorte: Tempranillo</p>
+<p>Jahr: 2017</p>
+<p>Herkunftsland: Spanien</p>
+<p>Ausbaustufe: trocken</p>
+<p>Alkoholgehakt: 13,5%</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:00]</dt>
+<dd>Hello</dd>
+</dl>
+
+<dl>
+<dt>[00:00:54]</dt>
+<dd>Warum dieser Wein?</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:05:21]</dt>
+<dd>Verkostung</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:07:32]</dt>
+<dd>Preis</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:07:53]</dt>
+<dd>Dekandieren</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:09:54]</dt>
+<dd>Vergleich im Preissegment</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:12:17]</dt>
+<dd>Traube Tempranillo</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:17:53]</dt>
+<dd>Warum haben wir so wenig Supermarkt Weine?</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:21:53]</dt>
+<dd>Gleiches Geschmacksprofil jedes Jahr, jede Flasche</dd>
+</dl></dd>
+</dl>
+
+<dl>
+<dt>[00:23:30]</dt>
+<dd>Zusammenfassung</dd>
+</dl></dd>
+</dl>
+
+<p>Homepage: https://www.ausbaufaehig-podcast.de<br>
+Mail: boehner.vanessa@gmail.com<br>
+Twitter: @ausbaufahig</p>
+            ]]>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_12.mp3" length="16265359" type="audio/mpeg"/>
+            <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_12.mp3
+            </guid>
+            <itunes:duration>00:27:06</itunes:duration>
+            <itunes:subtitle>Es wird Zeit für einen völlig random Wein aus dem Supermarkt - Massenwein aus Rioja! Völlig blind folgt Vanessa der Empfehlung eines Arbeitskollegen: den gelben Spanier Rioja vom Rewe.</itunes:subtitle>
+            <itunes:summary>
+            Es wird Zeit für einen völlig random Wein aus dem Supermarkt - Massenwein aus Rioja! Völlig blind folgt Vanessa der Empfehlung eines Arbeitskollegen: den gelben Spanier Rioja vom Rewe.
+
+            Wein: Campo Viejo Rioja
+            Rebsorte: Tempranillo
+            Jahr: 2017
+            Herkunftsland: Spanien
+            Ausbaustufe: trocken
+            Alkoholgehakt: 13,5%
+
+            Show Notes
+            
+            [00:00:00]
+            Hello
+
+            [00:00:54]
+            Warum dieser Wein?
+
+            [00:05:21]
+            Verkostung
+
+            [00:07:32]
+            Preis
+
+            [00:07:53]
+            Dekandieren
+
+            [00:09:54]
+            Vergleich im Preissegment
+
+            [00:12:17]
+            Traube Tempranillo
+
+            [00:17:53]
+            Warum haben wir so wenig Supermarkt Weine?
+
+            [00:21:53]
+            Gleiches Geschmacksprofil jedes Jahr, jede Flasche
+
+            [00:23:30]
+            Zusammenfassung
+
+            
+            Homepage: https://www.ausbaufaehig-podcast.de
+            Mail: boehner.vanessa@gmail.com
+            Twitter: @ausbaufahig
+            </itunes:summary>
+            <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
+            <itunes:keywords>
+            weinprobe, spanien, rioja, tempranillo, ausbaufähig, ausbaufaehig, ausbaufahig, winetasting, tasting, wine, rotwein, supermarktwein, supermarkt
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
             <title>#11 Winter is coming - Es zweigelt!</title>
             <number>11</number>
             <countries type="array">
@@ -57,7 +204,7 @@
             <content:encoded>
                 <![CDATA[<p>Brace yourself - winter is coming! ;) Haben Ben und Vanessa heute einen Kandidaten für Weihnachten gefunden?
 </p><p>Wein: Weingut WeinWurms, Zweigelt Reserve 2012, trocken</p>
-            <p>Nachfolger: http://www.weinwurms.at/hommage-zweigelt.html</p>
+<p>Nachfolger: http://www.weinwurms.at/hommage-zweigelt.html</p>
 <h3>Show Notes</h3>
 <dl>
 <dt>[00:00:11]</dt>
