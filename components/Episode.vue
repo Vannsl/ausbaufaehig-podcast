@@ -1,24 +1,34 @@
 <template>
   <div>
-    <div v-if="showDivider" class="h-px w-max my-8 bg-grey-lighter"/>
+    <div v-if="showDivider" class="h-px w-max my-8 bg-grey-lighter" />
     <h2 class="text-2xl py-4 text-center">
       <nuxt-link class="text-primary no-underline hover:underline" :to="path">{{ title }}</nuxt-link>
     </h2>
-    <p v-html="description" class="text-xl w-full leading-tight my-2 break-words"/>
+    <p v-html="description" class="text-xl w-full leading-tight my-2 break-words" />
     <template v-if="!preview">
       <div class="text-center mb-8 mt-6">
         <audio controls v-show="src" class="max-w-full">
-          <source :src="src | trim" type="audio/mpeg">Your browser does not support the audio element.
+          <source :src="src | trim" type="audio/mpeg" />Your browser does not support the audio element.
         </audio>
       </div>
       <div v-if="showNotes" @click="toggleNotices" class="flex w-24 group cursor-pointer">
         <h3 class="text-l mb-4 group-hover:text-primary">Show Notes</h3>
-        <Arrow :direction="direction"/>
+        <Arrow :direction="direction" />
       </div>
-      <div v-show="show" v-html="showNotes"/>
+      <div v-show="show" v-html="showNotes" />
     </template>
     <div class="comments">
-      <vue-disqus shortname="https-www-ausbaufaehig-podcast-de" :identifier="episode.number" url="https://www.ausbaufaehig-podcast.de"></vue-disqus>
+      <vue-disqus
+        v-if="showComments"
+        shortname="https-www-ausbaufaehig-podcast-de"
+        :identifier="episode.number"
+        url="https://www.ausbaufaehig-podcast.de"
+      ></vue-disqus>
+      <button
+        v-else
+        @click="showComments = !showComments"
+        class="bg-white hover:bg-primary hover:text-white font-bold py-2 px-4 rounded"
+      >Kommentare anzeigen</button>
     </div>
   </div>
 </template>
@@ -33,7 +43,8 @@ export default {
   },
   data() {
     return {
-      show: false
+      show: false,
+      showComments: false
     };
   },
   props: {
@@ -43,17 +54,17 @@ export default {
     },
     showDivider: {
       type: Boolean,
-      default: true,
+      default: true
     },
     preview: {
       type: Boolean,
-      default: false,
+      default: false
     }
   },
   filters: {
     trim(value) {
-      if (!value) return ''
-      value = value.toString()
+      if (!value) return "";
+      value = value.toString();
       return value.trim();
     }
   },
@@ -69,8 +80,9 @@ export default {
     },
     content() {
       return (
-        this.episode["content:encoded"] && this.episode["content:encoded"]._cdata ||
-        this.episode.description && this.episode.description._cdata
+        (this.episode["content:encoded"] &&
+          this.episode["content:encoded"]._cdata) ||
+        (this.episode.description && this.episode.description._cdata)
       );
     },
     parsedContent() {
