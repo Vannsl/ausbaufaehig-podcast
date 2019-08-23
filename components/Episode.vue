@@ -17,7 +17,7 @@
       </div>
       <div v-show="show" v-html="showNotes" />
     </template>
-    <div class="comments">
+    <div v-if="!preview" class="comments">
       <vue-disqus
         v-if="showComments"
         shortname="https-www-ausbaufaehig-podcast-de"
