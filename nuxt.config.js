@@ -67,14 +67,6 @@ export default {
         name: "og:audio:type",
         content: "audio/mpeg"
       }
-    ],
-    link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.png" },
-      {
-        defer: true,
-        rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=PT+Sans+Narrow"
-      }
     ]
   },
   css: ["@/assets/reset.css", "@/assets/main.css"],
