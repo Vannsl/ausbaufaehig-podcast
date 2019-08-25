@@ -14,7 +14,7 @@
 
 /* roboto-regular - latin */
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Roboto', 'sans-serif';
   font-style: normal;
   font-weight: 400;
   src: url('~assets/fonts/roboto-v20-latin-regular.eot'); /* IE9 Compat Modes */
