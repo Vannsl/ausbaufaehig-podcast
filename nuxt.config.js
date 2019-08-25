@@ -41,7 +41,7 @@ export default {
       {
         name: "og:image",
         content:
-          "https://res.cloudinary.com/vannsl-io/image/upload/c_crop,h_800,w_1500/v1542718345/ausbaufaehig_cover_art.jpg"
+          "~assets/img/ausbaufaehig_cover_art.jpg"
       },
       {
         name: "og:url",

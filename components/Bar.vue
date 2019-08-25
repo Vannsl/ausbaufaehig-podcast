@@ -16,22 +16,19 @@
   >
     <div class="container-lg flex justify-between py-2 px-2 sm:px-4 md:px-8">
       <div class="self-center">
-        <nuxt-link
-          to="/"
-          class="no-underline"
-        >
+        <nuxt-link to="/" class="no-underline">
           <img
             v-if="sticky"
             class="max-h-36"
-            src="https://res.cloudinary.com/vannsl-io/image/upload/c_scale,h_80,p_40/v1542543661/ausbaufaehig_logo_long.png"
+            src="~assets/img/ausbaufaehig_logo_long.png"
             alt="Ausbaufähig, der Wein-Podcast"
-          >
+          />
           <img
             v-else
             class="max-h-36"
-            src="https://res.cloudinary.com/vannsl-io/image/upload/c_scale,h_80,p_40/v1542543661/ausbaufaehig_logo_long_white.png"
+            src="~assets/img/ausbaufaehig_logo_long_white.png"
             alt="Ausbaufähig, der Wein-Podcast"
-          >
+          />
         </nuxt-link>
       </div>
       <social />

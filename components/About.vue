@@ -45,7 +45,7 @@ export default {
   margin: 48px auto;
   border-radius: 150px;
   max-width: 300px;
-  background: url("https://res.cloudinary.com/vannsl-io/image/upload/c_scale,q_auto:eco,w_880/v1542826488/ben_und_vanessa.webp");
+  background: url("~assets/img/ben_und_vanessa.webp");
   background-position: 30%;
   background-size: cover;
   box-shadow: 0px 0px 50px -10px rgba(0, 0, 0, 0.75);
