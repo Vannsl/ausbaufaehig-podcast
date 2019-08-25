@@ -12,7 +12,7 @@
   },
   "scripts": {
     "transform": "node -e 'require(\"./feed\").transform()'",
-    "copy-header": "cp _header dist/headers",
+    "copy-header": "cp _headers dist/headers",
     "dev-debug": "npm run transform && node --inspect node_modules/.bin/nuxt && 'open chrome://inspect'",
     "dev": "npm run transform && nuxt",
     "build": "npm run transform && nuxt build --modern",
