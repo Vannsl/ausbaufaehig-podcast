@@ -70,7 +70,7 @@ export default {
     ]
   },
   css: ["@/assets/reset.css", "@/assets/main.css"],
-  modules: ["nuxt-purgecss", "nuxt-cache"],
+  modules: ["nuxt-purgecss", "nuxt-cache", '@nuxtjs/pwa'],
   purgeCSS: {
     mode: "postcss"
   },
