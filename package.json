@@ -17,7 +17,7 @@
     "dev": "npm run transform && nuxt",
     "build": "npm run transform && nuxt build --modern",
     "start": "npm run transform && nuxt start --modern",
-    "generate": "npm run transform && nuxt generate --modern && copy-header",
+    "generate": "npm run transform && nuxt generate --modern && npm run copy-header",
     "spa": "npm run transform && nuxt build --spa",
     "test": "jest",
     "prepush": "npm run test"
