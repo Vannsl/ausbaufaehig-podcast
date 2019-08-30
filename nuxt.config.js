@@ -1,5 +1,5 @@
 export default {
-  mode: "spa",
+  mode: "universal",
   generate: {
     routes: [
       '/episodes/0',
@@ -71,6 +71,7 @@ export default {
   },
   css: ["@/assets/reset.css", "@/assets/main.css"],
   modules: [
+    ['storyblok-nuxt', { accessToken: 'rFHeL1JYrSsYPGmxQl84aQtt', cacheProvider: 'memory' }],
     "nuxt-purgecss",
     "nuxt-cache",
     "@nuxtjs/pwa",
@@ -80,7 +81,8 @@ export default {
     mode: "postcss"
   },
   plugins: [
-    './plugins/disqus.js',
+    '~/plugins/disqus.js',
+    '~/plugins/components.js'
   ],
   build: {
     extend(config, { isDev, isClient }) {

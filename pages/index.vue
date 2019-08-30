@@ -1,17 +1,17 @@
 <template>
   <div>
-    <bar :should-check-stickyness="true"/>
+    <bar :should-check-stickyness="true" />
     <div class="content flex-1">
-      <hero/>
+      <hero />
       <section :class="classList">
-        <About/>
+        <About :content="story.content" />
       </section>
       <section :class="classList">
-        <Episodes/>
+        <Episodes />
       </section>
-      <counter/>
+      <counter />
     </div>
-    <footer-bar/>
+    <footer-bar />
   </div>
 </template>
 
@@ -23,6 +23,7 @@ import Episodes from "~/components/Episodes.vue";
 import Counter from "~/components/Counter.vue";
 import FooterBar from "~/components/Footer.vue";
 import lightModeMixin from "~/mixins/light-mode";
+import storyblokLivePreview from "~/mixins/storyblok-live-preview";
 
 export default {
   components: {
@@ -33,7 +34,7 @@ export default {
     FooterBar,
     Counter
   },
-  mixins: [lightModeMixin],
+  mixins: [lightModeMixin, storyblokLivePreview],
   head() {
     return {
       meta: [
@@ -54,7 +55,27 @@ export default {
   data() {
     return {
       classList: "container mx-auto my-16 p-4",
+      story: { content: {} }
     };
+  },
+  async asyncData(context) {
+    let version =
+      context.query._storyblok || context.isDev ? "draft" : "published";
+
+    return context.app.$storyapi
+      .get("cdn/stories/index/about", {
+        version: version
+      })
+      .then(res => {
+        return res.data;
+      })
+      .catch(res => {
+        console.log(res.response.data);
+        context.error({
+          statusCode: res.response.status,
+          message: res.response.data
+        });
+      });
   }
 };
 </script>
