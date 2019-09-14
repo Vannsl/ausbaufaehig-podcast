@@ -26,6 +26,6 @@
        url('./fonts/roboto-v20-latin-regular.svg#Roboto') format('svg'); /* Legacy iOS */
 }
 
-html {
+html, body {
   font-family: 'Roboto', 'sans-serif';
 }
