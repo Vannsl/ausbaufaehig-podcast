@@ -1,21 +1,31 @@
 <template>
   <div>
-    <bar :should-check-stickyness="true"/>
+    <bar :should-check-stickyness="true" />
     <div class="content flex-1">
-      <hero/>
+      <hero />
       <section :class="classList">
-        <About/>
+        <About>
+          <component
+            v-if="story.content.component"
+            slot="dynamic"
+            :key="story.content._uid"
+            :blok="story.content"
+            :is="story.content.component"
+          ></component>
+        </About>
       </section>
       <section :class="classList">
-        <Episodes/>
+        <Episodes />
       </section>
-      <counter/>
+      <counter />
     </div>
-    <footer-bar/>
+    <footer-bar />
   </div>
 </template>
 
 <script>
+import storyblokLivePreview from "@/mixins/storyblok-live-preview";
+
 import Bar from "~/components/Bar.vue";
 import Hero from "~/components/Hero.vue";
 import About from "~/components/About.vue";
@@ -33,7 +43,30 @@ export default {
     FooterBar,
     Counter
   },
-  mixins: [lightModeMixin],
+  mixins: [lightModeMixin, storyblokLivePreview],
+  data() {
+    return { story: { content: {} } };
+  },
+  asyncData(context) {
+    // Check if we are in the editor mode
+    let version =
+      context.query._storyblok || context.isDev ? "draft" : "published";
+
+    // Load the JSON from the API
+    return context.app.$storyapi
+      .get("cdn/stories/home", {
+        version: version
+      })
+      .then(res => {
+        return res.data;
+      })
+      .catch(res => {
+        context.error({
+          statusCode: res.response.status,
+          message: res.response.data
+        });
+      });
+  },
   head() {
     return {
       meta: [
@@ -53,7 +86,7 @@ export default {
   },
   data() {
     return {
-      classList: "container mx-auto my-16 p-4",
+      classList: "container mx-auto my-16 p-4"
     };
   }
 };

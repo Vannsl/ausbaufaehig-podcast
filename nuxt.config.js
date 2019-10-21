@@ -1,22 +1,24 @@
+require("dotenv").config();
+
 export default {
-  mode: "spa",
+  mode: "universal",
   generate: {
     routes: [
-      '/episodes/0',
-      '/episodes/1',
-      '/episodes/2',
-      '/episodes/3',
-      '/episodes/4',
-      '/episodes/5',
-      '/episodes/6',
-      '/episodes/7',
-      '/episodes/8',
-      '/episodes/9',
-      '/episodes/10',
-      '/episodes/11',
-      '/episodes/12',
-      '/episodes/13',
-      '/episodes/14'
+      "/episodes/0",
+      "/episodes/1",
+      "/episodes/2",
+      "/episodes/3",
+      "/episodes/4",
+      "/episodes/5",
+      "/episodes/6",
+      "/episodes/7",
+      "/episodes/8",
+      "/episodes/9",
+      "/episodes/10",
+      "/episodes/11",
+      "/episodes/12",
+      "/episodes/13",
+      "/episodes/14"
     ]
   },
   head: {
@@ -42,8 +44,7 @@ export default {
       },
       {
         name: "og:image",
-        content:
-          "~assets/img/ausbaufaehig_cover_art.jpg"
+        content: "~assets/img/ausbaufaehig_cover_art.jpg"
       },
       {
         name: "og:url",
@@ -76,14 +77,17 @@ export default {
     "nuxt-purgecss",
     "nuxt-cache",
     "@nuxtjs/pwa",
-    "@nuxtjs/component-cache"
+    "@nuxtjs/component-cache",
+    [
+      "storyblok-nuxt",
+      { accessToken: process.env.KEY, cacheProvider: "memory" }
+    ],
+    "@nuxtjs/dotenv"
   ],
   purgeCSS: {
     mode: "postcss"
   },
-  plugins: [
-    './plugins/disqus.js',
-  ],
+  plugins: ["./plugins/disqus.js", "./plugins/components.js"],
   build: {
     extend(config, { isDev, isClient }) {
       module: {
