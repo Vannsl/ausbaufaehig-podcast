@@ -79,7 +79,10 @@ export default {
     "nuxt-cache",
     "@nuxtjs/pwa",
     "@nuxtjs/component-cache",
-    ["storyblok-nuxt"],
+    [
+      "storyblok-nuxt",
+      { accessToken: process.env.KEY, cacheProvider: "memory" }
+    ],
     "@nuxtjs/dotenv"
   ],
   purgeCSS: {
