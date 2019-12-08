@@ -18,7 +18,8 @@ export default {
       "/episodes/11",
       "/episodes/12",
       "/episodes/13",
-      "/episodes/14"
+      "/episodes/14",
+      "/episodes/15"
     ]
   },
   head: {
@@ -78,10 +79,7 @@ export default {
     "nuxt-cache",
     "@nuxtjs/pwa",
     "@nuxtjs/component-cache",
-    [
-      "storyblok-nuxt",
-      { accessToken: process.env.KEY, cacheProvider: "memory" }
-    ],
+    ["storyblok-nuxt"],
     "@nuxtjs/dotenv"
   ],
   purgeCSS: {
