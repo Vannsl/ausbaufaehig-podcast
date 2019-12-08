@@ -1,7 +1,5 @@
-require("dotenv").config();
-
 export default {
-  mode: "universal",
+  mode: "spa",
   generate: {
     routes: [
       "/episodes/0",
@@ -78,17 +76,12 @@ export default {
     "nuxt-purgecss",
     "nuxt-cache",
     "@nuxtjs/pwa",
-    "@nuxtjs/component-cache",
-    [
-      "storyblok-nuxt",
-      { accessToken: process.env.KEY, cacheProvider: "memory" }
-    ],
-    "@nuxtjs/dotenv"
+    "@nuxtjs/component-cache"
   ],
   purgeCSS: {
     mode: "postcss"
   },
-  plugins: ["./plugins/disqus.js", "./plugins/components.js"],
+  plugins: ["./plugins/disqus.js"],
   build: {
     extend(config, { isDev, isClient }) {
       module: {
