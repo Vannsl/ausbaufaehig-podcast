@@ -11,7 +11,7 @@
           <source :src="src | trim" type="audio/mpeg" />Your browser does not support the audio element.
         </audio>
       </div>
-      <div v-if="showNotes" @click="toggleNotices" class="flex w-24 group cursor-pointer">
+      <div v-if="showNotes" @click="toggleNotices" class="flex group cursor-pointer">
         <h3 class="text-l mb-4 group-hover:text-primary">Show Notes</h3>
         <Arrow :direction="direction" />
       </div>
