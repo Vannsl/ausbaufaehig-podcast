@@ -43,9 +43,9 @@ export default {
     Episode,
     FooterBar
   },
-  head({ params }) {
+  head() {
     return {
-      title: `Ausbaufähig Episode #${params.id}`,
+      title: `Ausbaufähig Episode #${this.id}`,
       meta: [
         {
           hid: "description",
@@ -64,6 +64,12 @@ export default {
   mixins: [lightModeMixin],
   validate({ params }) {
     return /^\d+$/.test(params.id);
+  },
+  asyncData({ params }) {
+    return {
+      item: {},
+      isLoaded: false
+    };
   },
   data() {
     return {
