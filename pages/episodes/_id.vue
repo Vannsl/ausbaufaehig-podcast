@@ -67,8 +67,7 @@ export default {
   },
   asyncData({ params }) {
     return {
-      item: {},
-      isLoaded: false
+      id: params.id
     };
   },
   data() {
