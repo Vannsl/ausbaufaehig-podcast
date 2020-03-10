@@ -107,7 +107,7 @@ export default {
 </script>
 
 <style lang="scss">
-dl {
+dl, p {
   margin-bottom: 1rem;
 }
 
