@@ -20,7 +20,8 @@ export default {
       "/episodes/15",
       "/episodes/16",
       "/episodes/17",
-      "/episodes/18"
+      "/episodes/18",
+      "/episodes/19"
     ]
   },
   head: {
