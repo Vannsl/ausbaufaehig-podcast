@@ -80,11 +80,11 @@ export default {
     "nuxt-purgecss",
     "nuxt-cache",
     "@nuxtjs/pwa",
-    "@nuxtjs/component-cache"
+    "@nuxtjs/component-cache",
+    '@bazzite/nuxt-netlify'
   ],
-  purgeCSS: {
-    mode: "postcss"
-  },
+  netlify: { mergeSecurityHeaders: true },
+  purgeCSS: { mode: "postcss" },
   plugins: ["./plugins/disqus.js"],
   build: {
     extend(config, { isDev, isClient }) {
