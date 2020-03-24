@@ -83,7 +83,15 @@ export default {
     "@nuxtjs/component-cache",
     '@bazzite/nuxt-netlify'
   ],
-  netlify: { mergeSecurityHeaders: true },
+  netlify: {
+    redirects: [
+      {
+        from: '/*',
+        to: '/index.html',
+        status: 200
+      }
+    ]
+  },
   purgeCSS: { mode: "postcss" },
   plugins: ["./plugins/disqus.js"],
   build: {
