@@ -1,10 +1,10 @@
 <template>
   <ul class="list-reset flex justify-center py-8">
-    <li class="mr-6 hover:text-primary">
-      <nuxt-link to="/impressum">Impressum</nuxt-link>
+    <li class="mr-6">
+      <nuxt-link class="hover:text-primary" to="/impressum">Impressum</nuxt-link>
     </li>
-    <li class="hover:text-primary">
-      Copyright 2018-2020 vannsl.io
+    <li>
+      Copyright 2018-2020 <a href="https://vannsl.io" class="hover:text-primary" target="_blank" rel="noopener nofollow noreferrer">vannsl.io</a>
     </li>
     <!-- <li class="mr-6 hover:text-grey-lightest">
       <nuxt-link to="/datenschutz">Datenschutz</nuxt-link>
