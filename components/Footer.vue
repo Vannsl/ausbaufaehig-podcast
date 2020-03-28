@@ -4,7 +4,7 @@
       <nuxt-link to="/impressum">Impressum</nuxt-link>
     </li>
     <li class="hover:text-primary">
-      Copyright 2018-2019 vannsl.io
+      Copyright 2018-2020 vannsl.io
     </li>
     <!-- <li class="mr-6 hover:text-grey-lightest">
       <nuxt-link to="/datenschutz">Datenschutz</nuxt-link>
