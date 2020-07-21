@@ -40,6 +40,135 @@
         <itunes:category text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
+            <title>#23 Nero d' Avola: Spontankauf im Supermarkt (4)</title>
+            <number>23</number>
+            <countries type="array">
+                <value>Italien</value>
+            </countries>
+            <wines type="array">
+                <value>Stemmari Rotwein Nero d' Avola DOC trocken 0,75l</value>
+            </wines>
+            <glasses>3</glasses>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_23.mp3</link>
+            <pubDate>Tue, 21 Jul 2020 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[In der heutigen Episode gibt es einen Nero d'Avola, was gleichzeitig einen Wein als auch eine Traube bezeichnet. Sie ist die wichtigste Traube aus Sizilien, Italien. Für lange Zeit wurde Nero d'Avola nur für Verschnittweine (Cuveès) benutzt, doch nun d[&#8230;]]>
+            </description>
+            <content:encoded>
+                <![CDATA[
+<p>In der heutigen Episode gibt es einen Nero d'Avola, was gleichzeitig einen Wein als auch eine Traube bezeichnet. Sie ist die wichtigste Traube aus Sizilien, Italien. Für lange Zeit wurde Nero d'Avola nur für Verschnittweine (Cuveès) benutzt, doch nun dürfen wir uns auch an reinsortigen Weinen erfreuen. Es gibt einen Nero d'Avola von Stemmari, aus dem Jahr 2018, trocken ausgebaut, für günstige 5€!</p>
+<p>###</p>
+<p>Name: Nero d' Avola 2018</p>
+<p>Rebsorten: Nero d' Avola</p>
+<p>Geschmack: trocken</p>
+<p>Land: Italien</p>
+<p>Region: Sizilien</p>
+<p>Jahr: 2018</p>
+<p>Alkohol: 13%</p>
+<p>Ausbau: Eichenholzbarrique</p>
+<p>Winzer: Stemmari</p>
+<p>Preis: 4,95 €</p>
+<p>Link: <a href="https://www.stemmari.it/de/produkte/stemmari/nero-d-avola" target="_blank" rel="noopener">https://www.stemmari.it/de/produkte/stemmari/nero-d-avola</a></p>
+<p>###</p>
+</p>
+<h3>Show Notes</h3>
+<dl>
+<dt>[00:00:00]</dt>
+<dd>Intro</dd>
+</dl>
+<dl>
+<dt>[00:00:25]</dt>
+<dd>Wein aus dem Supermarkt</dd>
+</dl>
+<dl>
+<dt>[00:07:09]</dt>
+<dd>Riechen, Gucken, Schmecken</dd>
+</dl>
+<dl>
+<dt>[00:10:56]</dt>
+<dd>Vivino Bewertung</dd>
+</dl>
+<dl>
+<dt>[00:15:26]</dt>
+<dd>Unsere Bewertung</dd>
+</dl>
+<dl>
+<dt>[00:20:05]</dt>
+<dd>Preis-Leistungs-Verhältnis</dd>
+</dl>
+
+<p>Homepage: https://www.ausbaufaehig-podcast.de<br>
+Mail: boehner.vanessa@gmail.com<br>
+Twitter: @ausbaufahig</p>
+            ]]>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_23.mp3" length="12614763" type="audio/mpeg"/>
+            <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_23.mp3
+            </guid>
+            <itunes:duration>00:20:57</itunes:duration>
+            <itunes:subtitle>In der heutigen Episode gibt es einen Nero d'Avola, was gleichzeitig einen Wein als auch eine Traube bezeichnet. Sie ist die wichtigste Traube aus Sizilien, Italien. Für lange Zeit wurde Nero d'Avola nur für Verschnittweine (Cuveès) benutzt, doch nun d...</itunes:subtitle>
+            <itunes:summary>
+            In der heutigen Episode gibt es einen Nero d'Avola, was gleichzeitig einen Wein als auch eine Traube bezeichnet. Sie ist die wichtigste Traube aus Sizilien, Italien. Für lange Zeit wurde Nero d'Avola nur für Verschnittweine (Cuveès) benutzt, doch nun dürfen wir uns auch an reinsortigen Weinen erfreuen. Es gibt einen Nero d'Avola von Stemmari, aus dem Jahr 2018, trocken ausgebaut, für günstige 5€!
+
+###
+
+Name: Nero d' Avola 2018
+
+Rebsorten: Nero d' Avola
+
+Geschmack: trocken
+
+Land: Italien
+
+Region: Sizilien
+
+Jahr: 2018
+
+Alkohol: 13%
+
+Ausbau: Eichenholzbarrique
+
+Winzer: Stemmari
+
+Preis: 4,95 €
+
+Link: https://www.stemmari.it/de/produkte/stemmari/nero-d-avola
+
+             ###
+
+            Show Notes
+            
+            [00:00:00]
+            Intro
+
+            [00:00:25]
+            Wein aus dem Supermarkt
+
+            [00:07:09]
+            Riechen, Gucken, Schmecken
+
+            [00:10:56]
+            Vivino Bewertung
+
+            [00:15:26]
+            Unsere Bewertung
+
+            [00:20:05]
+            Preis-Leistungs-Verhältnis
+
+            
+            Homepage: https://www.ausbaufaehig-podcast.de
+            Mail: boehner.vanessa@gmail.com
+            Twitter: @ausbaufahig
+            </itunes:summary>
+            <itunes:image href="https://res.cloudinary.com/vannsl-io/image/upload/v1595354205/Nero_Avola_bt_scont_0303_0.png"/>
+            <itunes:keywords>
+            weinprobe, rotwein, sizilen, reinsortig, ausbaufähig, ausbaufaehig, ausbaufahig, winetasting, tasting, wine, redwine
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
             <title>#22 Lugana DOC: Spontankauf im Supermarkt (3)</title>
             <number>22</number>
             <countries type="array">
@@ -49,7 +178,7 @@
                 <value>Alta Corte Weißwein Lugana DOC trocken 0,75l</value>
             </wines>
             <glasses>2</glasses>
-            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_21.mp3</link>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_22.mp3</link>
             <pubDate>Sat, 04 Jul 2020 09:00:00 PDT</pubDate>
             <description>
                 <![CDATA[Seit einigen Jahren erlebt der italienische Lugana durch geschicktes Marketing und guten Geschmack eine wachsende Beliebtheit, vor allem in Deutschland. Doch Lugana ist gar kein Rebsorte, sondern in Herkunftsbezeichnung. Ein Lugana DOC Wein besteht aus[&#8230;]]>
@@ -68,7 +197,7 @@
 <p>Ausbau: Stahltank</p>
 <p>Winzer: Cantina Delibori</p>
 <p>Preis: 6,99 €</p>
-<p>Link: <a href="https://www.weinfreunde.de/alta-corte-lugana-cantina-delibori.html" target="_blank" rel="nofollow noreferrer noopener">https://www.weinfreunde.de/alta-corte-lugana-cantina-delibori.html</a></p>
+<p>Link: <a href="https://www.weinfreunde.de/alta-corte-lugana-cantina-delibori.html" target="_blank" rel="noopener">https://www.weinfreunde.de/alta-corte-lugana-cantina-delibori.html</a></p>
 <p>###</p>
 </p>
 <h3>Show Notes</h3>
@@ -203,7 +332,7 @@ Link: https://www.weinfreunde.de/alta-corte-lugana-cantina-delibori.html
 <p>Ausbau: Stahltank</p>
 <p>Winzer: Cembra Cantina di Montagna</p>
 <p>Preis: etwa 16,00 €</p>
-<p>Link: <a href="https://weinfuehrer.wein-plus.eu/cembra-cantina-di-montagna-la-vis/2017-trentino-doc-vigna-delle-forche-trentino#wine-info" target="_blank" rel="nofollow noreferrer noopener">https://weinfuehrer.wein-plus.eu/cembra-cantina-di-montagna-la-vis/2017-trentino-doc-vigna-delle-forche-trentino#wine-info</a></p>
+<p>Link: <a href="https://weinfuehrer.wein-plus.eu/cembra-cantina-di-montagna-la-vis/2017-trentino-doc-vigna-delle-forche-trentino#wine-info" target="_blank" rel="noopener">https://weinfuehrer.wein-plus.eu/cembra-cantina-di-montagna-la-vis/2017-trentino-doc-vigna-delle-forche-trentino#wine-info</a></p>
 <p>###</p>
 </p>
 <h3>Show Notes</h3>
@@ -344,7 +473,7 @@ Name: Bodegas y Viñedos Muñoz Artero Colec[&#8230;]]>
 <p>Ausbau: Reserva: 1 Jahr Holzfass + 1-2 Jahre Flaschenlagerung</p>
 <p>Winzer: Bodegas y Viñedos Muñoz Artero</p>
 <p>Preis: 7,50 € (oder 5,49 € Angebotspreis)</p>
-<p>Link: <a href="https://shop.rewe.de/p/bodegas-y-vi-edos-mu-oz-artero-colecci-n-privada-reserva-rotwein-trocken-0-75l/7123712" target="_blank" rel="nofollow noreferrer noopener">https://shop.rewe.de/p/bodegas-y-vi-edos-mu-oz-artero-colecci-n-privada-reserva-rotwein-trocken-0-75l/7123712</a></p>
+<p>Link: <a href="https://shop.rewe.de/p/bodegas-y-vi-edos-mu-oz-artero-colecci-n-privada-reserva-rotwein-trocken-0-75l/7123712" target="_blank" rel="noopener">https://shop.rewe.de/p/bodegas-y-vi-edos-mu-oz-artero-colecci-n-privada-reserva-rotwein-trocken-0-75l/7123712</a></p>
 <p>###</p>
 </p>
 <h3>Show Notes</h3>
