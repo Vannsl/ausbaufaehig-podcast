@@ -95,7 +95,7 @@ export default {
       return this.parsedContent[1];
     },
     src() {
-      return this.episode.link && this.episode.link._text;
+      return this.episode.guid && this.episode.guid._text;
     }
   },
   methods: {
