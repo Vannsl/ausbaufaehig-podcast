@@ -53,8 +53,7 @@ export default {
         content: "Ausbaufähig - der Wein-Podcast"
       },
       {
-        name: "og:image",
-        content: ogImage
+        name: "og:image", hid: 'og:image', property: 'og:image', content: this.BASE_URL+ ogImage
       },
       {
         name: "og:url",
