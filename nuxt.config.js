@@ -1,3 +1,5 @@
+import ogImage from '~assets/img/ausbaufaehig_cover_art.jpg';
+
 export default {
   mode: "spa",
   generate: {
@@ -52,7 +54,7 @@ export default {
       },
       {
         name: "og:image",
-        content: "~assets/img/ausbaufaehig_cover_art.jpg"
+        content: ogImage
       },
       {
         name: "og:url",
