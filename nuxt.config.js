@@ -1,4 +1,4 @@
-import ogImage from '~assets/img/ausbaufaehig_cover_art.jpg';
+import ogImage from '/assets/img/ausbaufaehig_cover_art.jpg';
 
 export default {
   mode: "spa",
