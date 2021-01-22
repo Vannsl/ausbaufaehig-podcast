@@ -39,6 +39,49 @@
         <itunes:category text="Arts"/>
         <itunes:category text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
+
+        <item>
+            <title>WW: Talisker Port Ruighe</title>
+            <number>25</number>
+            <countries type="array">
+                <value>Schottland</value>
+            </countries>
+            <wines type="array">
+                <value>Talisker Port Ruighe</value>
+            </wines>
+            <glasses>2</glasses>
+            <link>https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_25.mp3</link>
+            <pubDate>Fri, 22 Jan 2021 09:00:00 PDT</pubDate>
+            <description>
+                <![CDATA[Auf gehts zum ersten Whisky Wednesday. Ben und Vanessa starten mit dem Talisker Port Ruighe und reden dabei über Single Malt, Bourbons, Scotch, japanischen Whisky und vieles Andere.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[
+<p>Auf gehts zum ersten Whisky Wednesday. Ben und Vanessa starten mit dem Talisker Port Ruighe und reden dabei über Single Malt, Bourbons, Scotch, japanischen Whisky und vieles Andere.</p>
+
+
+<p>Homepage: https://www.ausbaufaehig-podcast.de<br>
+Mail: boehner.vanessa@gmail.com<br>
+Twitter: @ausbaufahig</p>
+            ]]>
+            </content:encoded>
+            <enclosure url="https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_25.mp3" length="18578101" type="audio/mpeg"/>
+            <guid>
+            https://vannsl.io/ausbaufaehig/ausbaufaehig_episode_25.mp3
+            </guid>
+            <itunes:duration>00:30:32</itunes:duration>
+            <itunes:subtitle>Auf gehts zum ersten Whisky Wednesday. Ben und Vanessa starten mit dem Talisker Port Ruighe und reden dabei über Single Malt, Bourbons, Scotch, japanischen Whisky und vieles Andere.</itunes:subtitle>
+            <itunes:summary>
+            
+            Homepage: https://www.ausbaufaehig-podcast.de
+            Mail: boehner.vanessa@gmail.com
+            Twitter: @ausbaufahig
+            </itunes:summary>
+            <itunes:keywords>
+            whiskey wednesday, whiskey, whiskey tasting, talisker, whisky, whisky wednesday, schottland, scotch, bourbon
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>#24 Virtuelle Wein Tour</title>
             <number>24</number>
