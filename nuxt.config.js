@@ -1,5 +1,3 @@
-import ogImage from '/assets/img/ausbaufaehig_cover_art.jpg';
-
 export default {
   mode: "spa",
   generate: {
@@ -52,9 +50,6 @@ export default {
       {
         name: "og:title",
         content: "Ausbaufähig - der Wein-Podcast"
-      },
-      {
-        name: "og:image", hid: 'og:image', property: 'og:image', content: this.BASE_URL+ ogImage
       },
       {
         name: "og:url",
