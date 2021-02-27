@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" 
-    xmlns:atom="http://www.w3.org/2005/Atom" 
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Ausbaufähig</title>
@@ -40,36 +40,36 @@
         <itunes:subcategory text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
-<title>#26 Kendall Jackson: Zinfandel</title>
-<number>26</number>
+            <title>#26 Kendall Jackson: Zinfandel</title>
+            <number>26</number>
             <countries type="array">
                 <value>Kalifornien</value>
             </countries>
             <wines type="array">
                 <value>Kendall Jackson: Zinfandel 2013</value>
             </wines>
-<description>
-<![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
-</description>
-<pubDate>Sat, 27 Feb 2021 16:39:41 +0100</pubDate>
-<link>https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-26.mp3</link>
-<guid isPermaLink="false">pod-603a670f3fbfb114357258</guid>
-<author>boehner.vanessa@gmail.com (boehner.vanessa@gmail.com (Vanessa und Ben))</author>
-<enclosure type="audio/mpeg" length="24979522" url="https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-26.mp3"/>
-<dc:creator>boehner.vanessa@gmail.com (Vanessa und Ben)</dc:creator>
-<content:encoded>
-<![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
-</content:encoded>
-<slash:comments>0</slash:comments>
-<itunes:author>Ausbaufaehig</itunes:author>
-<itunes:duration>00:29:44</itunes:duration>
-<itunes:image href="https://g8qwn1.podcaster.de/ausbaufaehig/logos/ausbaufaehig_cover_art(2).jpg"/>
-<itunes:title>#26 Kendall Jackson: Zinfandel</itunes:title>
-<itunes:subtitle>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</itunes:subtitle>
-<itunes:summary>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</itunes:summary>
-<itunes:episode>26</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
+            <description>
+                <![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
+            </description>
+            <pubDate>Sat, 27 Feb 2021 16:39:41 +0100</pubDate>
+            <link>https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-26.mp3</link>
+            <guid isPermaLink="false">pod-603a670f3fbfb114357258</guid>
+            <author>boehner.vanessa@gmail.com (boehner.vanessa@gmail.com (Vanessa und Ben))</author>
+            <enclosure type="audio/mpeg" length="24979522" url="https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-26.mp3"/>
+            <dc:creator>boehner.vanessa@gmail.com (Vanessa und Ben)</dc:creator>
+            <content:encoded>
+                <![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
+            </content:encoded>
+            <slash:comments>0</slash:comments>
+            <itunes:author>Ausbaufaehig</itunes:author>
+            <itunes:duration>00:29:44</itunes:duration>
+            <itunes:image href="https://g8qwn1.podcaster.de/ausbaufaehig/logos/ausbaufaehig_cover_art(2).jpg"/>
+            <itunes:title>#26 Kendall Jackson: Zinfandel</itunes:title>
+            <itunes:subtitle>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</itunes:subtitle>
+            <itunes:summary>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</itunes:summary>
+            <itunes:episode>26</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
         <item>
             <title>WW: Talisker Port Ruighe</title>
             <number>25</number>
@@ -121,7 +121,7 @@ Twitter: @ausbaufahig</p>
             <wines type="array">
                 <value>Wein- und Sektgut Wilhelmshof, 2019 Weißer Burgunder, Muschelkalk, trocken, Deutscher Prädikatswein, Kabinett, Gutsabfüllung,
 Pfalz</value>
-<value>Weingut Rinke, 2018 Chardonnay, Langsurer Brüderberg, Muschelkalk, trocken, Deutscher Qualitätswein, Mosel</value>
+                <value>Weingut Rinke, 2018 Chardonnay, Langsurer Brüderberg, Muschelkalk, trocken, Deutscher Qualitätswein, Mosel</value>
                 <value>Weingut Heiner und Michael Wisser, 2019 Grauburgunder, trocken, Deutscher Qualitätswein, Erzeugerabfüllung, Pfalz</value>
                 <value>Weingut Boendgen, 2018 Riesling, Zeller Schwarze Katz, feinherb, Deutscher Qualitätswein, Erzeugerabfüllung, Mosel</value>
                 <value>Weingut Günter Gindorf, 2019 Riesling Spätlese, Schweicher Annaberg, feinherb, Deutscher Prädikatswein, Erzeugerabfüllung, Mosel</value>
@@ -132,7 +132,7 @@ Rheinhessen</value>
                 <value>Wein- und Sektgut Wind-Rabold, 2019 Roter Muskateller, feinherb, Deutscher Qualitätswein, Gutsabfüllung, Pfalz</value>
                 <value>Weingenossenschaft Rietburg, 2019 Gewürztraminer, Hambacher Pfaffengrund, lieblich, Deutscher Prädikatswein, Spätlese, Erzeugerabfüllung, Pfalz</value>
                 <value>Familie Markus Busch, 2019 Muskattrollinger, lieblich, Deutscher Qualitätswein, Gutsabfüllung, Württemberg
-</value>
+                </value>
                 <value>Weingut J.J. Berizzi, 2019 Weißburgunder, trocken, Deutscher Qualitätswein, Gutsabfüllung, Pfalz</value>
                 <value>Weingut Christine Pröstler, 2019 Weißburgunder, Retzbacher Benediktusberg, trocken, Deutscher Qualitätswein, Gutsabfüllung, Franken</value>
                 <value>Weingut Riffel, 2018 Riesling, Binger, Quarzit, trocken, Deutscher Qualitätswein, Gutsabfüllung, Rheinhessen</value>
