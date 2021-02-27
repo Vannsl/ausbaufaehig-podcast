@@ -1,4 +1,5 @@
 [[redirects]]
   from = "/feed.xml"
   to = "https://g8qwn1.podcaster.de/ausbaufaehig.rss"
-  status = 302
+  status = 301
+  force = true
