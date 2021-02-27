@@ -37,7 +37,7 @@
         <rawvoice:location>Munich, Germany</rawvoice:location>
         <rawvoice:frequency>Biweekly</rawvoice:frequency>
         <itunes:category text="Arts"/>
-        <itunes:category text="Food"/>
+        <itunes:subcategory text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
 
         <item>
