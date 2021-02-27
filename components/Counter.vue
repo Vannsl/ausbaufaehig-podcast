@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import { feed } from "~/assets/feed";
+import { feed } from "~/assets/private_feed";
 import Earth from "~/components/icons/Earth.vue";
 import Glass from "~/components/icons/Glass.vue";
 import Bottle from "~/components/icons/Bottle.vue";

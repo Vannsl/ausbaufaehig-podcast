@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import { feed } from "~/assets/feed";
+import { feed } from "~/assets/private_feed";
 import Bar from "~/components/Bar.vue";
 import Episode from "~/components/Episode.vue";
 import FooterBar from "~/components/Footer.vue";
