@@ -13,11 +13,12 @@
   "scripts": {
     "transform": "node -e 'require(\"./feed\").transform()'",
     "copy-header": "cp _headers dist/headers",
+    "copy-redirects": "cp _redirects dist/_redirects",
     "dev-debug": "npm run transform && node --inspect node_modules/.bin/nuxt && 'open chrome://inspect'",
     "dev": "npm run transform && nuxt",
     "build": "npm run transform && nuxt build --modern",
     "start": "npm run transform && nuxt start --modern",
-    "generate": "npm run transform && nuxt generate --modern && npm run copy-header",
+    "generate": "npm run transform && nuxt generate --modern && npm run copy-header && npm run copy-redirects",
     "spa": "npm run transform && nuxt build --spa",
     "test": "jest",
     "prepush": "npm run test"
