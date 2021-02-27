@@ -7,7 +7,7 @@ const { xml2json } = require('xml-js');
 
 const dirSrc = './static';
 const dirDest = './assets';
-const fileName = 'feed';
+const fileName = 'private_feed';
 
 module.exports.transform = () => {
   fs.readFile(`${dirSrc}/${fileName}.xml`, (err, data) => {
