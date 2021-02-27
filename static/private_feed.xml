@@ -39,7 +39,37 @@
         <itunes:category text="Arts"/>
         <itunes:subcategory text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
-
+        <item>
+<title>#26 Kendall Jackson: Zinfandel</title>
+<number>26</number>
+            <countries type="array">
+                <value>Kalifornien</value>
+            </countries>
+            <wines type="array">
+                <value>Kendall Jackson: Zinfandel 2013</value>
+            </wines>
+<description>
+<![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
+</description>
+<pubDate>Sat, 27 Feb 2021 16:39:41 +0100</pubDate>
+<link>https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-26.mp3</link>
+<guid isPermaLink="false">pod-603a670f3fbfb114357258</guid>
+<author>boehner.vanessa@gmail.com (boehner.vanessa@gmail.com (Vanessa und Ben))</author>
+<enclosure type="audio/mpeg" length="24979522" url="https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-26.mp3"/>
+<dc:creator>boehner.vanessa@gmail.com (Vanessa und Ben)</dc:creator>
+<content:encoded>
+<![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
+</content:encoded>
+<slash:comments>0</slash:comments>
+<itunes:author>Ausbaufaehig</itunes:author>
+<itunes:duration>00:29:44</itunes:duration>
+<itunes:image href="https://g8qwn1.podcaster.de/ausbaufaehig/logos/ausbaufaehig_cover_art(2).jpg"/>
+<itunes:title>#26 Kendall Jackson: Zinfandel</itunes:title>
+<itunes:subtitle>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</itunes:subtitle>
+<itunes:summary>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</itunes:summary>
+<itunes:episode>26</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
         <item>
             <title>WW: Talisker Port Ruighe</title>
             <number>25</number>
