@@ -40,14 +40,44 @@
         <itunes:subcategory text="Food"/>
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
+            <title>#27 Kendall Jackson: Chardonnay</title>
+            <countries type="array">
+                <value>Kalifornien</value>
+            </countries>
+            <wines type="array">
+                <value>Kendall Jackson: Grand Reserve Chardonnay 2083</value>
+            </wines>
+            <glasses>2</glasses>
+            <description>
+            <![CDATA[ <p>Zweiter Teil des Kendall Jackson Doppelfeature. Heute trinken Vanessa und Ben den 2018er Grand Reserve Chardonnay. Nicht der günstigste, ob sich das nun wieder gelohnt hat?</p> <p><a href="https://www.kj.com/wine/grand-reserve/chardonnay" rel="noopener noreferrer nofollow">Link zum Wein</a></p> ]]>
+            </description>
+            <pubDate>Wed, 24 Mar 2021 09:50:00 +0100</pubDate>
+            <link>https://ausbaufaehig-podcast.de/episodes/27</link>
+            <guid isPermaLink="false">pod-798eaa4fdf2f5a251ccde8c45a</guid>
+            <author>boehner.vanessa@gmail.com (Vanessa und Ben)</author>
+            <enclosure type="audio/mpeg" length="20547665" url="https://g8qwn1.podcaster.de/ausbaufaehig/media/ausbaufaehig-episode-27.mp3"/>
+            <dc:creator>Vanessa und Ben</dc:creator>
+            <content:encoded>
+            <![CDATA[ <p>Zweiter Teil des Kendall Jackson Doppelfeature. Heute trinken Vanessa und Ben den 2018er Grand Reserve Chardonnay. Nicht der günstigste, ob sich das nun wieder gelohnt hat?</p> <p><a href="https://www.kj.com/wine/grand-reserve/chardonnay" rel="noopener noreferrer nofollow">Link zum Wein</a></p> ]]>
+            </content:encoded>
+            <slash:comments>0</slash:comments>
+            <itunes:duration>00:24:22</itunes:duration>
+            <itunes:image href="https://g8qwn1.podcaster.de/ausbaufaehig/logos/ausbaufaehig_cover_art(2).jpg"/>
+            <itunes:title>#27</itunes:title>
+            <itunes:subtitle>Zweiter Teil des Kendall Jackson Doppelfeature. Heute trinken Vanessa und Ben den 2018er Grand Reserve Chardonnay.</itunes:subtitle>
+            <itunes:summary>Zweiter Teil des Kendall Jackson Doppelfeature. Heute trinken Vanessa und Ben den 2018er Grand Reserve Chardonnay. Nicht der günstigste, ob sich das nun wieder gelohnt hat?</itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            </item>
+        <item>
             <title>#26 Kendall Jackson: Zinfandel</title>
             <number>26</number>
             <countries type="array">
                 <value>Kalifornien</value>
             </countries>
             <wines type="array">
-                <value>Kendall Jackson: Zinfandel 2013</value>
+                <value>Kendall Jackson: Vintners Reserve Zinfandel 2013</value>
             </wines>
+            <glasses>2</glasses>
             <description>
                 <![CDATA[ <p>Vanessa und Ben probieren den vermeintlichen Hauswein des Weißen Hauses. Was es damit auf sich hat und ob er seinen Erwartungen gerecht wird, erfahrt Ihr in der Folge.</p> <p>Links zu Folge:</p> <ul><li><p><a href="https://www.kj.com" rel="noopener noreferrer nofollow">Kendall-Jackson</a></p> </li><li><p><a href="https://www.weinundbar.de/Kendall-Jackson-Vintners-Reserve-Zinfandel-0750L-2013.html" rel="noopener noreferrer nofollow">Shop</a></p> </li></ul> ]]>
             </description>
