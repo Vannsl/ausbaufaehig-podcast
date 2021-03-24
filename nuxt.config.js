@@ -27,7 +27,9 @@ export default {
       "/episodes/22",
       "/episodes/23",
       "/episodes/24",
-      "/episodes/25"
+      "/episodes/25",
+      "/episodes/26",
+      "/episodes/27"
     ]
   },
   head: {
