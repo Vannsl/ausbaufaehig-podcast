@@ -30,7 +30,7 @@
         </itunes:owner>
         <itunes:explicit>No</itunes:explicit>
         <itunes:keywords>
-          wein, vino, winetasting, weinverkostung, rotwein, weisswein, sekt, schaumwein, rosewein
+          wein, vino, winetasting, weinverkostung, rotwein, weisswein, sekt, schaumw ein, rosewein
         </itunes:keywords>
         <itunes:image href="https://ausbaufaehig-podcast.de/ausbaufaehig_cover_art.jpg"/>
         <rawvoice:rating>TV-G</rawvoice:rating>
@@ -41,6 +41,7 @@
         <pubDate>Wed, 21 Nov 2018 09:00:00 PDT</pubDate>
         <item>
             <title>#27 Kendall Jackson: Chardonnay</title>
+            <number>27</number>
             <countries type="array">
                 <value>Kalifornien</value>
             </countries>
